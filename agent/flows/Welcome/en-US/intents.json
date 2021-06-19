@@ -1,0 +1,157 @@
+[
+    {
+        "name": "another_booking",
+        "exampleSentences": [
+            "make another booking",
+            "I want to book more seats",
+            "I want to make another booking",
+            "I want to book one more seat",
+            "book me another seat",
+            "can I make another booking"
+        ],
+        "rules": [],
+        "tags": [],
+        "confirmationSentences": [],
+        "condition": "",
+        "disambiguationSentence": "",
+        "childFeatures": false,
+        "parent": "",
+        "defaultReply": null,
+        "entryPoint": "",
+        "isRejectIntent": false
+    },
+    {
+        "name": "greeting",
+        "exampleSentences": [
+            "howdy",
+            "good afternoon",
+            "hello",
+            "Hi",
+            "good morning",
+            "hey"
+        ],
+        "rules": [],
+        "tags": [],
+        "confirmationSentences": [],
+        "condition": "",
+        "disambiguationSentence": "",
+        "childFeatures": false,
+        "parent": "",
+        "defaultReply": null,
+        "entryPoint": "",
+        "isRejectIntent": false
+    },
+    {
+        "name": "booking",
+        "exampleSentences": [
+            "I want to book a seat for my friend",
+            "how about reserving this seat for few more days",
+            "seat reservation for next three days",
+            "Can I do the booking for my colleague",
+            "can I book a seat for tomorrow",
+            "can I book a seat for myself",
+            "I want to book a room for video conference!",
+            "Individual Seating cubicle",
+            "i wanted to visit office tomorrow can you book a seat for me",
+            "I want to make a booking for individual seating cubicle",
+            "please book a seat for me",
+            "i will be visiting office, please book a seat for me",
+            "I want to book a seat"
+        ],
+        "rules": [],
+        "tags": [],
+        "confirmationSentences": [],
+        "condition": "",
+        "disambiguationSentence": "",
+        "childFeatures": false,
+        "parent": "",
+        "defaultReply": null,
+        "entryPoint": "",
+        "isRejectIntent": false
+    },
+    {
+        "name": "come_back_later",
+        "exampleSentences": [
+            "that's okay I will come back later",
+            "no thanks. laters ",
+            "it's alright I was just checking",
+            "come back later",
+            "it is fine ",
+            "please come back later"
+        ],
+        "rules": [],
+        "tags": [],
+        "confirmationSentences": [],
+        "condition": "",
+        "disambiguationSentence": "",
+        "childFeatures": false,
+        "parent": "",
+        "defaultReply": null,
+        "entryPoint": "",
+        "isRejectIntent": false
+    },
+    {
+        "name": "yes",
+        "exampleSentences": [
+            "okay",
+            "definitely",
+            "sure",
+            "yup",
+            "why not",
+            "absolutely",
+            "yes",
+            "yeah"
+        ],
+        "rules": [],
+        "tags": [],
+        "confirmationSentences": [],
+        "condition": "",
+        "disambiguationSentence": "",
+        "childFeatures": false,
+        "parent": "",
+        "defaultReply": null,
+        "entryPoint": "",
+        "isRejectIntent": false
+    },
+    {
+        "name": "no",
+        "exampleSentences": [
+            "not interested",
+            "not required",
+            "nah",
+            "no",
+            "no leave it",
+            "nope"
+        ],
+        "rules": [],
+        "tags": [],
+        "confirmationSentences": [],
+        "condition": "",
+        "disambiguationSentence": "",
+        "childFeatures": false,
+        "parent": "",
+        "defaultReply": null,
+        "entryPoint": "",
+        "isRejectIntent": false
+    },
+    {
+        "name": "talk_to_admin",
+        "exampleSentences": [
+            "ask admin to call me",
+            "connect me with human agent",
+            "Reach out to admin",
+            "I need more support",
+            "please connect me with admin team"
+        ],
+        "rules": [],
+        "tags": [],
+        "confirmationSentences": [],
+        "condition": "",
+        "disambiguationSentence": "",
+        "childFeatures": false,
+        "parent": "",
+        "defaultReply": null,
+        "entryPoint": "",
+        "isRejectIntent": false
+    }
+]

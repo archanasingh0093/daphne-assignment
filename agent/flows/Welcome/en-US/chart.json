@@ -1,0 +1,1945 @@
+{
+    "_id": "60c9d6459473594ef418aeeb",
+    "relations": [
+        {
+            "children": [],
+            "_id": "60c9d6459473591d5318aeed",
+            "node": "60c9d645947359673f18aeec",
+            "next": "60cae09d0e05e0397cd8adcd"
+        },
+        {
+            "children": [],
+            "_id": "60c9d645947359e78218aeef",
+            "node": "60c9d645947359180e18aeee",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60ca17c3b2aacecc7d030886",
+            "node": "60ca17c3b2aace9f88030885",
+            "next": "60ca2add94735933e818c8d1"
+        },
+        {
+            "children": [],
+            "_id": "60ca17c3b2aace0f61030888",
+            "node": "60ca17c3b2aace4a57030887",
+            "next": "60c9d64694735912af18aef3"
+        },
+        {
+            "children": [],
+            "_id": "60ca17c3b2aace27b103088a",
+            "node": "60ca17c3b2aace7ac9030889",
+            "next": "60cdbaf09473593138195aa3"
+        },
+        {
+            "children": [],
+            "_id": "60ca17e90e05e08653d873de",
+            "node": "60c9d64694735912af18aef3",
+            "next": "60ca1ee99473597d3618c8c4"
+        },
+        {
+            "children": [],
+            "_id": "60ca192503b9a311018648bb",
+            "node": "60ca192503b9a30d858648ba",
+            "next": "60ca18deb2aace3eb003088b"
+        },
+        {
+            "children": [],
+            "_id": "60ca192503b9a32fa08648bd",
+            "node": "60ca192503b9a3119b8648bc",
+            "next": "60ca2218947359d01918c8c6"
+        },
+        {
+            "children": [
+                "60ca17c3b2aace9f88030885",
+                "60ca17c3b2aace4a57030887",
+                "60ca17c3b2aace7ac9030889",
+                "60cabebc03b9a3a3c4865472",
+                "60cac1ce515a766a10644193",
+                "60cac231515a7672c6644195",
+                "60cdb5c1be27007bc293571a",
+                "60cdc0f603b9a3182e87d9f9"
+            ],
+            "_id": "60ca1c4a0e05e0cb08d873e2",
+            "node": "60ca17c3b2aacec302030883",
+            "next": "60c9d645947359180e18aeee"
+        },
+        {
+            "children": [],
+            "_id": "60ca1ee99473591dd418c8c5",
+            "node": "60ca1ee99473597d3618c8c4",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60ca1fcc515a76349b63e59b",
+            "node": "60ca18deb2aace3eb003088b",
+            "next": "60ca2dcfb2aace5fba031887"
+        },
+        {
+            "children": [
+                "60ca2218947359de3a18c8c8",
+                "60ca2218947359156818c8ca"
+            ],
+            "_id": "60ca22189473590ac018c8c7",
+            "node": "60ca2218947359d01918c8c6",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60ca2218947359535718c8c9",
+            "node": "60ca2218947359de3a18c8c8",
+            "next": "60ca1fe9be2700131091bc8a"
+        },
+        {
+            "children": [],
+            "_id": "60ca2218947359182f18c8cb",
+            "node": "60ca2218947359156818c8ca",
+            "next": "60ca225fbe2700ad7c91bc8c"
+        },
+        {
+            "children": [],
+            "_id": "60ca224903b9a3e4f0865024",
+            "node": "60ca1fe9be2700131091bc8a",
+            "next": "60ca204d03b9a320e6865022"
+        },
+        {
+            "children": [],
+            "_id": "60ca224e94735977fd18c8cc",
+            "node": "60ca204d03b9a320e6865022",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60ca225fbe27005c4391bc8d",
+            "node": "60ca225fbe2700ad7c91bc8c",
+            "next": "60ca235903b9a3587e865025"
+        },
+        {
+            "children": [
+                "60ca235903b9a34b54865027",
+                "60ca235903b9a33d6d865029"
+            ],
+            "_id": "60ca235903b9a3a498865026",
+            "node": "60ca235903b9a3587e865025",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60ca235903b9a343e3865028",
+            "node": "60ca235903b9a34b54865027",
+            "next": "60ca23a50e05e05756d89e20"
+        },
+        {
+            "children": [],
+            "_id": "60ca235903b9a3e7f786502a",
+            "node": "60ca235903b9a33d6d865029",
+            "next": "60ca2411947359303e18c8cd"
+        },
+        {
+            "children": [],
+            "_id": "60ca23a50e05e00ffcd89e21",
+            "node": "60ca23a50e05e05756d89e20",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60ca2411947359d62118c8ce",
+            "node": "60ca2411947359303e18c8cd",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60ca2add947359bf2518c8d2",
+            "node": "60ca2add94735933e818c8d1",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60ca2dcfb2aace4dee031888",
+            "node": "60ca2dcfb2aace5fba031887",
+            "next": "60cae13e03b9a363c58654b4"
+        },
+        {
+            "children": [],
+            "_id": "60cabebc03b9a3e5a9865473",
+            "node": "60cabebc03b9a3a3c4865472",
+            "next": "60cac0c2be2700cc8e923dc7"
+        },
+        {
+            "children": [],
+            "_id": "60cac0c2be270093de923dc8",
+            "node": "60cac0c2be2700cc8e923dc7",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cac1ce515a76d6da644194",
+            "node": "60cac1ce515a766a10644193",
+            "next": "60cac1e203b9a36f66865474"
+        },
+        {
+            "children": [],
+            "_id": "60cac1e203b9a39e7a865475",
+            "node": "60cac1e203b9a36f66865474",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cac231515a76ddb6644196",
+            "node": "60cac231515a7672c6644195",
+            "next": "60cac23f0e05e00362d8adb6"
+        },
+        {
+            "children": [],
+            "_id": "60cac23f0e05e0bf90d8adb7",
+            "node": "60cac23f0e05e00362d8adb6",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cae09d0e05e0261cd8adce",
+            "node": "60cae09d0e05e0397cd8adcd",
+            "next": "60ca17c3b2aacec302030883"
+        },
+        {
+            "children": [],
+            "_id": "60cae13e03b9a360a68654b5",
+            "node": "60cae13e03b9a363c58654b4",
+            "next": "60caebd4be2700aa7192c6ee"
+        },
+        {
+            "children": [],
+            "_id": "60caeb8ab2aace83040329ae",
+            "node": "60caeb8ab2aaceef250329ad",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60caebd4be2700986c92c6ef",
+            "node": "60caebd4be2700aa7192c6ee",
+            "next": "60caeb8ab2aaceef250329ad"
+        },
+        {
+            "children": [],
+            "_id": "60cdb5c1be27004b5993571b",
+            "node": "60cdb5c1be27007bc293571a",
+            "next": "60cdb5debe270054e893571c"
+        },
+        {
+            "children": [],
+            "_id": "60cdb5debe27004eb693571d",
+            "node": "60cdb5debe270054e893571c",
+            "next": null
+        },
+        {
+            "children": [
+                "60cdbaf094735908b4195aa5",
+                "60cdbaf09473596867195aa7"
+            ],
+            "_id": "60cdbaf0947359faf6195aa4",
+            "node": "60cdbaf09473593138195aa3",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cdbaf094735945b8195aa6",
+            "node": "60cdbaf094735908b4195aa5",
+            "next": "60cdbc5a515a7633ba64eede"
+        },
+        {
+            "children": [],
+            "_id": "60cdbaf0947359a0c8195aa8",
+            "node": "60cdbaf09473596867195aa7",
+            "next": "60cdbc1b234041a135ebab5e"
+        },
+        {
+            "children": [
+                "60cdbc1b2340412dbbebab60",
+                "60cdbc1b2340411c95ebab62"
+            ],
+            "_id": "60cdbc1b2340413bb0ebab5f",
+            "node": "60cdbc1b234041a135ebab5e",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cdbc1b2340419727ebab61",
+            "node": "60cdbc1b2340412dbbebab60",
+            "next": "60cdc983515a76558064eee8"
+        },
+        {
+            "children": [],
+            "_id": "60cdbc1b2340413d2bebab63",
+            "node": "60cdbc1b2340411c95ebab62",
+            "next": "60cdd24c9473598f7f195ab8"
+        },
+        {
+            "children": [],
+            "_id": "60cdbc5a515a76eee164eedf",
+            "node": "60cdbc5a515a7633ba64eede",
+            "next": "60cdbf4a03b9a3bb8387d9f7"
+        },
+        {
+            "children": [],
+            "_id": "60cdbf4a03b9a3b34187d9f8",
+            "node": "60cdbf4a03b9a3bb8387d9f7",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cdc0f603b9a3785187d9fa",
+            "node": "60cdc0f603b9a3182e87d9f9",
+            "next": "60cdc110234041a6bbebaba0"
+        },
+        {
+            "children": [],
+            "_id": "60cdc1112340413ed3ebaba1",
+            "node": "60cdc110234041a6bbebaba0",
+            "next": null
+        },
+        {
+            "children": [
+                "60cdc983515a761d4c64eeea",
+                "60cdc983515a76c3f964eeec"
+            ],
+            "_id": "60cdc983515a76278c64eee9",
+            "node": "60cdc983515a76558064eee8",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cdc983515a76562a64eeeb",
+            "node": "60cdc983515a761d4c64eeea",
+            "next": "60cdca1f2340414d74ebaba2"
+        },
+        {
+            "children": [],
+            "_id": "60cdc983515a763ffb64eeed",
+            "node": "60cdc983515a76c3f964eeec",
+            "next": "60cdbc6e03b9a376b387d9f5"
+        },
+        {
+            "children": [],
+            "_id": "60cdc9fcbe2700ef0c93576b",
+            "node": "60cdbc6e03b9a376b387d9f5",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cdca1f234041ebd5ebaba3",
+            "node": "60cdca1f2340414d74ebaba2",
+            "next": null
+        },
+        {
+            "children": [
+                "60cdd24c94735922ed195aba",
+                "60cdd24d947359172a195abc"
+            ],
+            "_id": "60cdd24c94735956dc195ab9",
+            "node": "60cdd24c9473598f7f195ab8",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cdd24d9473595bea195abb",
+            "node": "60cdd24c94735922ed195aba",
+            "next": "60cdd2a7515a76db9964eeee"
+        },
+        {
+            "children": [],
+            "_id": "60cdd24d947359aeb0195abd",
+            "node": "60cdd24d947359172a195abc",
+            "next": "60ca192503b9a33d048648b8"
+        },
+        {
+            "children": [
+                "60ca192503b9a30d858648ba",
+                "60ca192503b9a3119b8648bc"
+            ],
+            "_id": "60cdd25803b9a34d8887da14",
+            "node": "60ca192503b9a33d048648b8",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cdd2a7515a76e78b64eeef",
+            "node": "60cdd2a7515a76db9964eeee",
+            "next": null
+        }
+    ],
+    "nodes": [
+        {
+            "_id": "60cdd2a7515a76db9964eeee",
+            "referenceId": "c34b2a4b-f480-4e99-9c33-143ea1314367",
+            "type": "say",
+            "label": "Say (11)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Well I am glad to know you expectecing more response from me. Unfortunately, right now I cannot help you in answering this. "
+                    ],
+                    "type": "quickReplies",
+                    "_cognigy": {
+                        "_default": {
+                            "_quickReplies": {
+                                "type": "quick_replies",
+                                "quickReplies": [
+                                    {
+                                        "id": 0.20817308876915774,
+                                        "contentType": "postback",
+                                        "payload": "Individual Seating cubicle",
+                                        "title": "I want to book Individual Seating cubicle!"
+                                    },
+                                    {
+                                        "id": 0.05465826345875846,
+                                        "contentType": "postback",
+                                        "payload": "come back later",
+                                        "title": "It's alright! I will come back later."
+                                    }
+                                ],
+                                "text": "As per new operating norms, there is no allocated workplace / office and booking\r needs to be renewed manually every day.",
+                                "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                            }
+                        }
+                    },
+                    "_data": {
+                        "_cognigy": {
+                            "_default": {
+                                "_quickReplies": {
+                                    "type": "quick_replies",
+                                    "quickReplies": [
+                                        {
+                                            "id": 0.20817308876915774,
+                                            "contentType": "postback",
+                                            "payload": "Individual Seating cubicle",
+                                            "title": "I want to book Individual Seating cubicle!"
+                                        },
+                                        {
+                                            "id": 0.05465826345875846,
+                                            "contentType": "postback",
+                                            "payload": "come back later",
+                                            "title": "It's alright! I will come back later."
+                                        }
+                                    ],
+                                    "text": "As per new operating norms, there is no allocated workplace / office and booking\r needs to be renewed manually every day.",
+                                    "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cdd24d947359172a195abc",
+            "referenceId": "427ba899-7a8c-4aac-8abd-251202e9009c",
+            "type": "else",
+            "label": "Else",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cdd24c9473598f7f195ab8",
+            "referenceId": "3289bf7f-0605-487f-85c2-d9e880652580",
+            "type": "if",
+            "label": "If (7)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "condition": {
+                    "type": "condition",
+                    "rule": {
+                        "left": "1",
+                        "operand": "eq",
+                        "right": "1"
+                    },
+                    "condition": "input.slots.DURATION"
+                }
+            }
+        },
+        {
+            "_id": "60cdd24c94735922ed195aba",
+            "referenceId": "46fed21c-3bc2-41e7-ac17-d0bfaf25502d",
+            "type": "then",
+            "label": "Then",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cdca1f2340414d74ebaba2",
+            "referenceId": "e621b6e8-2b9d-4952-af99-9fc3fb3ba5d2",
+            "type": "goTo",
+            "label": "Go To (4)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "flowNode": {
+                    "flow": "e8767074-eac5-4232-ae0c-e0217113931f",
+                    "node": "2897e3df-62ff-4ce3-b45b-92c961ea95f3"
+                },
+                "absorbContext": false,
+                "executionMode": "continue",
+                "injectedText": "",
+                "injectedData": "{}",
+                "parseIntents": false,
+                "parseKeyphrases": false
+            }
+        },
+        {
+            "_id": "60cdc983515a76c3f964eeec",
+            "referenceId": "5003d4ed-9f96-43d2-9102-a720693c1b08",
+            "type": "else",
+            "label": "Else",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cdc983515a76558064eee8",
+            "referenceId": "7798b9df-19c4-49d9-b124-e81cb3ab8cea",
+            "type": "if",
+            "label": "If (6)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "condition": {
+                    "type": "rule",
+                    "condition": "",
+                    "rule": {
+                        "left": "{{input.text}}",
+                        "operand": "contains",
+                        "right": "tomorrow"
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cdc983515a761d4c64eeea",
+            "referenceId": "845ab6d3-bb87-4c5d-903e-b7506bab4989",
+            "type": "then",
+            "label": "Then",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cdc110234041a6bbebaba0",
+            "referenceId": "d0ece8e9-edfe-42fa-a1b4-7743e1a9ae63",
+            "type": "say",
+            "label": "Say (8)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Sorry {{context.profile.result.firstname}}, you cannot make more than one booking. As per the norm, booking\r needs to be renewed manually every day."
+                    ],
+                    "type": "text",
+                    "_cognigy": {
+                        "_default": {
+                            "_quickReplies": {
+                                "type": "quick_replies",
+                                "quickReplies": [
+                                    {
+                                        "id": 0.20817308876915774,
+                                        "contentType": "postback",
+                                        "payload": "Individual Seating cubicle",
+                                        "title": "I want to book Individual Seating cubicle!"
+                                    },
+                                    {
+                                        "id": 0.05465826345875846,
+                                        "contentType": "postback",
+                                        "payload": "come back later",
+                                        "title": "It's alright! I will come back later."
+                                    }
+                                ],
+                                "text": "As per new operating norms, there is no allocated workplace / office and booking\r needs to be renewed manually every day.",
+                                "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                            }
+                        }
+                    },
+                    "_data": {
+                        "_cognigy": {
+                            "_default": {
+                                "_quickReplies": {
+                                    "type": "quick_replies",
+                                    "quickReplies": [
+                                        {
+                                            "id": 0.20817308876915774,
+                                            "contentType": "postback",
+                                            "payload": "Individual Seating cubicle",
+                                            "title": "I want to book Individual Seating cubicle!"
+                                        },
+                                        {
+                                            "id": 0.05465826345875846,
+                                            "contentType": "postback",
+                                            "payload": "come back later",
+                                            "title": "It's alright! I will come back later."
+                                        }
+                                    ],
+                                    "text": "As per new operating norms, there is no allocated workplace / office and booking\r needs to be renewed manually every day.",
+                                    "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cdc0f603b9a3182e87d9f9",
+            "referenceId": "ab67101e-c5be-406a-9b8c-41136b8b64eb",
+            "type": "case",
+            "label": "Case",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "case": {
+                    "value": "another_booking"
+                }
+            }
+        },
+        {
+            "_id": "60cdbf4a03b9a3bb8387d9f7",
+            "referenceId": "fe29adf5-f4d6-4587-b646-4d898c55a3c9",
+            "type": "code",
+            "label": "Code",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "code": "delete context.anyone_else",
+                "hasError": false,
+                "transpiled": "delete context.anyone_else;\n"
+            }
+        },
+        {
+            "_id": "60cdbc6e03b9a376b387d9f5",
+            "referenceId": "a0af0c24-239b-41ec-a514-a6b8700d1d6f",
+            "type": "say",
+            "label": "Say (15)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Well I am glad to know you expectecing more response from me. Unfortunately, right now I cannot help you in answering this. "
+                    ],
+                    "type": "quickReplies",
+                    "_cognigy": {
+                        "_default": {
+                            "_quickReplies": {
+                                "type": "quick_replies",
+                                "quickReplies": [
+                                    {
+                                        "id": 0.20817308876915774,
+                                        "contentType": "postback",
+                                        "payload": "Individual Seating cubicle",
+                                        "title": "I want to book Individual Seating cubicle!"
+                                    },
+                                    {
+                                        "id": 0.05465826345875846,
+                                        "contentType": "postback",
+                                        "payload": "come back later",
+                                        "title": "It's alright! I will come back later."
+                                    }
+                                ],
+                                "text": "As per new operating norms, there is no allocated workplace / office and booking\r needs to be renewed manually every day.",
+                                "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                            }
+                        }
+                    },
+                    "_data": {
+                        "_cognigy": {
+                            "_default": {
+                                "_quickReplies": {
+                                    "type": "quick_replies",
+                                    "quickReplies": [
+                                        {
+                                            "id": 0.20817308876915774,
+                                            "contentType": "postback",
+                                            "payload": "Individual Seating cubicle",
+                                            "title": "I want to book Individual Seating cubicle!"
+                                        },
+                                        {
+                                            "id": 0.05465826345875846,
+                                            "contentType": "postback",
+                                            "payload": "come back later",
+                                            "title": "It's alright! I will come back later."
+                                        }
+                                    ],
+                                    "text": "As per new operating norms, there is no allocated workplace / office and booking\r needs to be renewed manually every day.",
+                                    "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cdbc5a515a7633ba64eede",
+            "referenceId": "527061a4-3ef6-432a-a50a-007a149dc129",
+            "type": "say",
+            "label": "Say (14)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Well I am glad to know you expectecing more response from me. Unfortunately, right now I cannot help you in answering this. "
+                    ],
+                    "type": "quickReplies",
+                    "_cognigy": {
+                        "_default": {
+                            "_quickReplies": {
+                                "type": "quick_replies",
+                                "quickReplies": [
+                                    {
+                                        "id": 0.20817308876915774,
+                                        "contentType": "postback",
+                                        "payload": "Individual Seating cubicle",
+                                        "title": "I want to book Individual Seating cubicle!"
+                                    },
+                                    {
+                                        "id": 0.05465826345875846,
+                                        "contentType": "postback",
+                                        "payload": "come back later",
+                                        "title": "It's alright! I will come back later."
+                                    }
+                                ],
+                                "text": "Hey right now you can only make the booking for yourself.",
+                                "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                            }
+                        }
+                    },
+                    "_data": {
+                        "_cognigy": {
+                            "_default": {
+                                "_quickReplies": {
+                                    "type": "quick_replies",
+                                    "quickReplies": [
+                                        {
+                                            "id": 0.20817308876915774,
+                                            "contentType": "postback",
+                                            "payload": "Individual Seating cubicle",
+                                            "title": "I want to book Individual Seating cubicle!"
+                                        },
+                                        {
+                                            "id": 0.05465826345875846,
+                                            "contentType": "postback",
+                                            "payload": "come back later",
+                                            "title": "It's alright! I will come back later."
+                                        }
+                                    ],
+                                    "text": "Hey right now you can only make the booking for yourself.",
+                                    "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cdbc1b234041a135ebab5e",
+            "referenceId": "a18f6af1-2e9d-49c3-b12a-68845a129a09",
+            "type": "if",
+            "label": "If (5)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "condition": {
+                    "type": "condition",
+                    "rule": {
+                        "left": "1",
+                        "operand": "eq",
+                        "right": "1"
+                    },
+                    "condition": "input.slots.DATE"
+                }
+            }
+        },
+        {
+            "_id": "60cdbc1b2340412dbbebab60",
+            "referenceId": "ac5dcf8a-c8d3-4ab5-a970-6f5736324da3",
+            "type": "then",
+            "label": "Then",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cdbc1b2340411c95ebab62",
+            "referenceId": "55cad3b0-e800-4003-a68a-fe9a17246f9a",
+            "type": "else",
+            "label": "Else",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cdbaf09473596867195aa7",
+            "referenceId": "9cae200e-ec36-451d-9640-0929d0414fa8",
+            "type": "else",
+            "label": "Else",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cdbaf09473593138195aa3",
+            "referenceId": "402107b0-97ef-49fb-a1a4-2557687151dd",
+            "type": "if",
+            "label": "If (4)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "condition": {
+                    "type": "condition",
+                    "rule": {
+                        "left": "1",
+                        "operand": "eq",
+                        "right": "1"
+                    },
+                    "condition": "context.anyone_else"
+                }
+            }
+        },
+        {
+            "_id": "60cdbaf094735908b4195aa5",
+            "referenceId": "86ca8429-5142-489d-8331-d71f357ea174",
+            "type": "then",
+            "label": "Then",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cdb5debe270054e893571c",
+            "referenceId": "cf6c1591-d661-43b0-ac0f-7d47122d1dbe",
+            "type": "say",
+            "label": "Say (13)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Thank you for your time! I will let Admin team know you need some help. They will reach out to you asap. Have a good day."
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cdb5c1be27007bc293571a",
+            "referenceId": "de589242-afa9-491e-b148-281b6f16cba7",
+            "type": "case",
+            "label": "Case",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "case": {
+                    "value": "talk_to_admin"
+                }
+            }
+        },
+        {
+            "_id": "60caebd4be2700aa7192c6ee",
+            "referenceId": "98289d1f-5620-44e7-ad4b-726f903a1dc1",
+            "type": "goTo",
+            "label": "Go To (3)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "flowNode": {
+                    "flow": "5d61d3b4-74b3-4129-9a52-8927494cf1cb",
+                    "node": "4098b644-fb3f-4017-bca1-5fcdcbf118c7"
+                },
+                "absorbContext": false,
+                "executionMode": "continue",
+                "injectedText": "",
+                "injectedData": "{}",
+                "parseIntents": false,
+                "parseKeyphrases": false
+            }
+        },
+        {
+            "_id": "60caeb8ab2aaceef250329ad",
+            "referenceId": "7265f146-a58d-4ab8-9d75-ae70f6acdc47",
+            "type": "stop",
+            "label": "Stop and Return",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cae13e03b9a363c58654b4",
+            "referenceId": "17225349-ae02-4155-8e96-587460e94b84",
+            "type": "sleep",
+            "label": "Sleep",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "milliseconds": 3000
+            }
+        },
+        {
+            "_id": "60cae09d0e05e0397cd8adcd",
+            "referenceId": "5723dffd-cbbe-44d8-a3e4-51fd65061d44",
+            "type": "httpRequest",
+            "label": "HTTP Request",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "type": "GET",
+                "url": "https://daphne-server.azurewebsites.net/api/employeeDetails",
+                "headers": {},
+                "payloadType": "json",
+                "payloadText": "",
+                "payloadJSON": {},
+                "storeLocation": "context",
+                "inputKey": "httprequest",
+                "contextKey": "profile",
+                "authType": "none",
+                "basicConnection": "",
+                "apiKeyAuthKeyConnection": "",
+                "apiKeyXKeyConnection": "",
+                "oAuth2Connection": "",
+                "async": false,
+                "cache": false,
+                "cacheExpiry": 0,
+                "storeResponseHeaders": false,
+                "allowSelfSigned": false,
+                "errorLogging": "none",
+                "abortOnError": false,
+                "logWarning": ""
+            }
+        },
+        {
+            "_id": "60cac23f0e05e00362d8adb6",
+            "referenceId": "a6a9f365-752c-4768-b606-16dd05697370",
+            "type": "say",
+            "label": "Say (12)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Well I am glad to know you expectecing more response from me. Unfortunately, right now I cannot help you in answering this. "
+                    ],
+                    "type": "quickReplies",
+                    "_cognigy": {
+                        "_default": {
+                            "_quickReplies": {
+                                "type": "quick_replies",
+                                "quickReplies": [
+                                    {
+                                        "id": 0.20817308876915774,
+                                        "contentType": "postback",
+                                        "payload": "Individual Seating cubicle",
+                                        "title": "I want to book Individual Seating cubicle!"
+                                    },
+                                    {
+                                        "id": 0.05465826345875846,
+                                        "contentType": "postback",
+                                        "payload": "come back later",
+                                        "title": "It's alright! I will come back later."
+                                    }
+                                ],
+                                "text": "I am sorry for the inconvenience but right now capabilities are limited. I am learning.",
+                                "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                            }
+                        }
+                    },
+                    "_data": {
+                        "_cognigy": {
+                            "_default": {
+                                "_quickReplies": {
+                                    "type": "quick_replies",
+                                    "quickReplies": [
+                                        {
+                                            "id": 0.20817308876915774,
+                                            "contentType": "postback",
+                                            "payload": "Individual Seating cubicle",
+                                            "title": "I want to book Individual Seating cubicle!"
+                                        },
+                                        {
+                                            "id": 0.05465826345875846,
+                                            "contentType": "postback",
+                                            "payload": "come back later",
+                                            "title": "It's alright! I will come back later."
+                                        }
+                                    ],
+                                    "text": "I am sorry for the inconvenience but right now capabilities are limited. I am learning.",
+                                    "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cac231515a7672c6644195",
+            "referenceId": "43025540-fe7b-4564-88e2-4348d119288b",
+            "type": "case",
+            "label": "Case",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "case": {
+                    "value": "no"
+                }
+            }
+        },
+        {
+            "_id": "60cac1e203b9a36f66865474",
+            "referenceId": "28b992fe-5815-4c09-b9ff-9c5269753355",
+            "type": "say",
+            "label": "Say (9)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Cool! Hope this was helpful.",
+                        "Thanks!",
+                        "Great!"
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cac1ce515a766a10644193",
+            "referenceId": "2008cd9a-6d97-41b5-b7ef-4a4471097ed7",
+            "type": "case",
+            "label": "Case",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "case": {
+                    "value": "yes"
+                }
+            }
+        },
+        {
+            "_id": "60cac0c2be2700cc8e923dc7",
+            "referenceId": "2a69cd00-7633-49e3-9fea-5a0865090d00",
+            "type": "say",
+            "label": "Say (10)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Thanks! Have a good day.",
+                        "Sure! Have a great day.",
+                        "Thanks! Enjoy your day."
+                    ],
+                    "type": "text",
+                    "_cognigy": {
+                        "_default": {
+                            "_quickReplies": {
+                                "type": "quick_replies",
+                                "quickReplies": [
+                                    {
+                                        "id": 0.20817308876915774,
+                                        "contentType": "postback",
+                                        "payload": "Individual Seating cubicle",
+                                        "title": "I want to book Individual Seating cubicle!"
+                                    },
+                                    {
+                                        "id": 0.05465826345875846,
+                                        "contentType": "postback",
+                                        "payload": "come back later",
+                                        "title": "It's alright! I will come back later."
+                                    }
+                                ],
+                                "text": "As per new operating norms, there is no allocated workplace / office and booking\r needs to be renewed manually every day.",
+                                "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                            }
+                        }
+                    },
+                    "_data": {
+                        "_cognigy": {
+                            "_default": {
+                                "_quickReplies": {
+                                    "type": "quick_replies",
+                                    "quickReplies": [
+                                        {
+                                            "id": 0.20817308876915774,
+                                            "contentType": "postback",
+                                            "payload": "Individual Seating cubicle",
+                                            "title": "I want to book Individual Seating cubicle!"
+                                        },
+                                        {
+                                            "id": 0.05465826345875846,
+                                            "contentType": "postback",
+                                            "payload": "come back later",
+                                            "title": "It's alright! I will come back later."
+                                        }
+                                    ],
+                                    "text": "As per new operating norms, there is no allocated workplace / office and booking\r needs to be renewed manually every day.",
+                                    "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cabebc03b9a3a3c4865472",
+            "referenceId": "4cbbb4a2-265f-4283-b47a-1a6591ea4def",
+            "type": "case",
+            "label": "Case",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "case": {
+                    "value": "come_back_later"
+                }
+            }
+        },
+        {
+            "_id": "60ca2dcfb2aace5fba031887",
+            "referenceId": "0c2058c4-1e1b-48ba-a869-32a93b142898",
+            "type": "say",
+            "label": "Say (7)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Just hold on a sec, I will fetch the list of available seats for you."
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca2add94735933e818c8d1",
+            "referenceId": "3b46d8a4-9123-4632-bb31-9903bc429438",
+            "type": "say",
+            "label": "Say (6)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Well I am glad to know you expectecing more response from me. Unfortunately, right now I cannot help you in answering this. "
+                    ],
+                    "type": "quickReplies",
+                    "_cognigy": {
+                        "_default": {
+                            "_quickReplies": {
+                                "type": "quick_replies",
+                                "quickReplies": [
+                                    {
+                                        "id": 0.20817308876915774,
+                                        "contentType": "postback",
+                                        "payload": "Individual Seating cubicle",
+                                        "title": "I want to book Individual Seating cubicle!"
+                                    },
+                                    {
+                                        "id": 0.05465826345875846,
+                                        "contentType": "postback",
+                                        "payload": "come back later",
+                                        "title": "It's alright! I will come back later."
+                                    },
+                                    {
+                                        "id": 0.9572699116264549,
+                                        "contentType": "postback",
+                                        "payload": "Reach out to admin",
+                                        "title": "Reach out to admin!"
+                                    }
+                                ],
+                                "text": "I am glad that you want me to help you with more of your queries. I will be learning from your interactions. Unfortunately, my capabilities are limited at the moment and I cannot answer your queries.",
+                                "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                            }
+                        }
+                    },
+                    "_data": {
+                        "_cognigy": {
+                            "_default": {
+                                "_quickReplies": {
+                                    "type": "quick_replies",
+                                    "quickReplies": [
+                                        {
+                                            "id": 0.20817308876915774,
+                                            "contentType": "postback",
+                                            "payload": "Individual Seating cubicle",
+                                            "title": "I want to book Individual Seating cubicle!"
+                                        },
+                                        {
+                                            "id": 0.05465826345875846,
+                                            "contentType": "postback",
+                                            "payload": "come back later",
+                                            "title": "It's alright! I will come back later."
+                                        },
+                                        {
+                                            "id": 0.9572699116264549,
+                                            "contentType": "postback",
+                                            "payload": "Reach out to admin",
+                                            "title": "Reach out to admin!"
+                                        }
+                                    ],
+                                    "text": "I am glad that you want me to help you with more of your queries. I will be learning from your interactions. Unfortunately, my capabilities are limited at the moment and I cannot answer your queries.",
+                                    "fallbackText": "Sorry, I am still unable to understand your question. How about you contact Admin Team for help. They will help me learn as well for the next time. "
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca2411947359303e18c8cd",
+            "referenceId": "1509f46f-0c14-4450-8abb-3285fcf5d909",
+            "type": "goTo",
+            "label": "Go To (2)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "flowNode": {
+                    "flow": "e8767074-eac5-4232-ae0c-e0217113931f",
+                    "node": "f1e16c45-f7a1-4cfd-90d4-fea3f78b4455"
+                },
+                "absorbContext": false,
+                "executionMode": "continue",
+                "injectedText": "",
+                "injectedData": "{}",
+                "parseIntents": false,
+                "parseKeyphrases": false
+            }
+        },
+        {
+            "_id": "60ca23a50e05e05756d89e20",
+            "referenceId": "64bfcc68-199d-4eb8-a15f-9649d46655af",
+            "type": "goTo",
+            "label": "Go To",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "flowNode": {
+                    "flow": "e8767074-eac5-4232-ae0c-e0217113931f",
+                    "node": "298ef7ed-5036-4446-928f-d05415c4d55c"
+                },
+                "absorbContext": false,
+                "executionMode": "continue",
+                "injectedText": "",
+                "injectedData": "{}",
+                "parseIntents": false,
+                "parseKeyphrases": false
+            }
+        },
+        {
+            "_id": "60ca235903b9a3587e865025",
+            "referenceId": "df86ddd6-a4bd-4016-92c3-904714ba98eb",
+            "type": "if",
+            "label": "If (3)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "condition": {
+                    "type": "condition",
+                    "rule": {
+                        "left": "book_single_seat",
+                        "operand": "eq",
+                        "right": "1"
+                    },
+                    "condition": "context.book_single_seat"
+                }
+            }
+        },
+        {
+            "_id": "60ca235903b9a34b54865027",
+            "referenceId": "e7ba313e-6ecf-47d2-bb5e-1deb84436eae",
+            "type": "then",
+            "label": "Then",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca235903b9a33d6d865029",
+            "referenceId": "547f5712-506b-4703-a00b-4c3eebb3ff3a",
+            "type": "else",
+            "label": "Else",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca225fbe2700ad7c91bc8c",
+            "referenceId": "39ae5f95-69a7-45b2-8edd-c4f0e38a478d",
+            "type": "question",
+            "label": "Question",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": true,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "type": "yesNo",
+                "say": {
+                    "data": "{}",
+                    "type": "text",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Okay, I understand you want to book a place in office. Right now I can help you in booking individual seating cubicle. Would like me to proceed with that?"
+                    ],
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                },
+                "validationMessage": "Not sure I understood this correctly.",
+                "repromptCondition": "",
+                "validationRepeat": true,
+                "skipRepromptOnIntent": false,
+                "keyphraseTag": "",
+                "usePositiveOnly": "",
+                "regex": "",
+                "storeInContactProfile": "",
+                "profileKey": "",
+                "storeDetailedResults": "",
+                "storeResultInContext": true,
+                "contextKey": "book_single_seat",
+                "skipIfResultInContext": "",
+                "parseResultOnEntry": "",
+                "datepickerExplanation": "",
+                "additionalValidation": "",
+                "resultLocation": "",
+                "maxExecutionDiff": 1,
+                "escalateAnswersAction": "none",
+                "escalateAnswersThreshold": 3,
+                "escalateAnswersGotoTarget": "",
+                "escalateAnswersExecuteTarget": "",
+                "escalateAnswersGotoExecutionMode": "continue",
+                "escalateAnswersInjectedText": "",
+                "escalateAnswersInjectedData": "{}",
+                "escalateAnswersMessage": {
+                    "data": "{}",
+                    "type": "text",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        ""
+                    ],
+                    "_cognigy": {}
+                },
+                "escalateAnswersRepromptPrevention": true,
+                "escalateAnswersHandoverText": "",
+                "escalateAnswersHandoverCancelIntent": "",
+                "escalateAnswersHandoverUnavailable": "",
+                "escalateAnswersHandoverUnsupportedChannel": "",
+                "escalateAnswersHandoverQuickReply": "",
+                "escalateAnswersHandoverChatwootInboxId": "",
+                "escalateAnswersOnce": true,
+                "escalateIntentsAction": "none",
+                "escalateIntentsValidIntents": "",
+                "escalateIntentsThreshold": 0.8,
+                "escalateIntentsGotoTarget": "",
+                "escalateIntentsExecuteTarget": "",
+                "escalateIntentsGotoExecutionMode": "continue",
+                "escalateIntentsInjectedText": "",
+                "escalateIntentsInjectedData": "{}",
+                "escalateIntentsMessage": {
+                    "data": "{}",
+                    "type": "text",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        ""
+                    ],
+                    "_cognigy": {}
+                },
+                "escalateIntentsHandoverText": "",
+                "escalateIntentsHandoverCancelIntent": "",
+                "escalateIntentsHandoverUnavailable": "",
+                "escalateIntentsHandoverUnsupportedChannel": "",
+                "escalateIntentsHandoverQuickReply": "",
+                "escalateIntentsHandoverChatwootInboxId": "",
+                "escalateIntentsRepromptPrevention": true,
+                "datepicker_eventName": "",
+                "datepicker_locale": "en",
+                "datepicker_mode": "single",
+                "datepicker_dateFormat": "",
+                "datepicker_enableTime": "",
+                "datepicker_time24Hours": "",
+                "datepicker_defaultDate": "",
+                "datepicker_minDate": "",
+                "datepicker_maxDate": "",
+                "datepicker_wantEnableDisable": "none",
+                "datepicker_disableEnableRange": "",
+                "datepicker_enabledDates": "",
+                "datepicker_disabledDates": "",
+                "datepicker_openPickerButtonText": "",
+                "datepicker_cancelButtonText": "",
+                "datepicker_submitButtonText": "",
+                "datepicker_defaultHour": 12,
+                "datepicker_defaultMinute": 30,
+                "datepicker_enableSeconds": false,
+                "datepicker_hourIncrement": 1,
+                "datepicker_minuteIncrement": 5,
+                "datepicker_noCalendar": false,
+                "datepicker_weekNumbers": false,
+                "datepicker_hidePicker": false
+            }
+        },
+        {
+            "_id": "60ca2218947359de3a18c8c8",
+            "referenceId": "526ab961-b5c0-4c7a-ab3b-99d2120b2750",
+            "type": "then",
+            "label": "Then",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca2218947359d01918c8c6",
+            "referenceId": "546d3ee0-2196-4ead-bce7-f3873ce7a04a",
+            "type": "if",
+            "label": "If (2)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "condition": {
+                    "type": "rule",
+                    "condition": "",
+                    "rule": {
+                        "left": "{{context.seat_type}}",
+                        "operand": "exists",
+                        "right": "1"
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca2218947359156818c8ca",
+            "referenceId": "1d17e01b-f0d7-45ce-92a4-c7fe52e8af63",
+            "type": "else",
+            "label": "Else",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca204d03b9a320e6865022",
+            "referenceId": "2409eecd-542a-4aad-ba3b-99dee0b08731",
+            "type": "say",
+            "label": "Say (5)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Please get in touch with Admin team. Check if they can help you."
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca1fe9be2700131091bc8a",
+            "referenceId": "f1e16c45-f7a1-4cfd-90d4-fea3f78b4455",
+            "type": "say",
+            "label": "Say (4)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Sorry to disappoint you {{profile.firstname}}, but right now I can only help you with Individual Seating cubicle booking."
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca1ee99473597d3618c8c4",
+            "referenceId": "b470d2a1-562b-4e38-bf95-6977c921361a",
+            "type": "say",
+            "label": "Say (2)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [],
+                    "type": "quickReplies",
+                    "_cognigy": {
+                        "_default": {
+                            "_quickReplies": {
+                                "type": "quick_replies",
+                                "quickReplies": [
+                                    {
+                                        "id": 0.6371558475143908,
+                                        "contentType": "postback",
+                                        "payload": "Individual Seating cubicle",
+                                        "title": "I want to book Individual Seating cubicle!",
+                                        "intentName": "booking"
+                                    }
+                                ],
+                                "text": "Tell me how can I help yo today?"
+                            }
+                        }
+                    },
+                    "_data": {
+                        "_cognigy": {
+                            "_default": {
+                                "_quickReplies": {
+                                    "type": "quick_replies",
+                                    "quickReplies": [
+                                        {
+                                            "id": 0.6371558475143908,
+                                            "contentType": "postback",
+                                            "payload": "Individual Seating cubicle",
+                                            "title": "I want to book Individual Seating cubicle!",
+                                            "intentName": "booking"
+                                        }
+                                    ],
+                                    "text": "Tell me how can I help yo today?"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca192503b9a33d048648b8",
+            "referenceId": "2897e3df-62ff-4ce3-b45b-92c961ea95f3",
+            "type": "if",
+            "label": "If",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "condition": {
+                    "type": "rule",
+                    "condition": "",
+                    "rule": {
+                        "left": "{{context.seat_type}}",
+                        "operand": "eq",
+                        "right": "Individual Seating cubicles"
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca192503b9a3119b8648bc",
+            "referenceId": "6dec7236-933b-4e37-aeb5-69dcf971bdee",
+            "type": "else",
+            "label": "Else",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca192503b9a30d858648ba",
+            "referenceId": "15723a89-adc7-4d3f-8352-770e4cefbec7",
+            "type": "then",
+            "label": "Then",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca18deb2aace3eb003088b",
+            "referenceId": "298ef7ed-5036-4446-928f-d05415c4d55c",
+            "type": "say",
+            "label": "Say (3)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Cool! let's book a seat for you."
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca17c3b2aacec302030883",
+            "referenceId": "df0a1798-6198-4457-899c-2e9aa1fc5517",
+            "type": "switch",
+            "label": "Lookup",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "switch": {
+                    "type": "intent",
+                    "operator": "ci.intent"
+                },
+                "useStrict": ""
+            }
+        },
+        {
+            "_id": "60ca17c3b2aace9f88030885",
+            "referenceId": "096adc83-1860-4e22-9941-1b99ded7d7e2",
+            "type": "default",
+            "label": "Default",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca17c3b2aace7ac9030889",
+            "referenceId": "7da10263-8405-4d4b-a55e-327f7c9262ab",
+            "type": "case",
+            "label": "Case",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "case": {
+                    "value": "booking"
+                }
+            }
+        },
+        {
+            "_id": "60ca17c3b2aace4a57030887",
+            "referenceId": "7f1f1621-eb69-425e-8220-8427aa8825ea",
+            "type": "case",
+            "label": "Case",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "case": {
+                    "value": "greeting"
+                }
+            }
+        },
+        {
+            "_id": "60c9d64694735912af18aef3",
+            "referenceId": "432025cb-31fe-4c2c-bdf5-e5b2914e164c",
+            "type": "say",
+            "label": "Say",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "text": [
+                        "Hello {{context.profile.result.firstname}}, hope you and your family is doing well."
+                    ],
+                    "type": "text",
+                    "data": "",
+                    "linear": false,
+                    "loop": false
+                }
+            }
+        },
+        {
+            "_id": "60c9d645947359673f18aeec",
+            "referenceId": "ffd18f8b-4514-4373-b9aa-650993b24f6e",
+            "type": "start",
+            "label": "Start",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": true,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60c9d645947359180e18aeee",
+            "referenceId": "22a0e64e-dfc9-406e-9a66-c7d791d2d34d",
+            "type": "end",
+            "label": "End",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "is_building_space_available": true,
+    "total_building_capacity": "3000",
+    "allowed_building_capacity": "1000",
+    "available_building_capacity": "1000",
+    "booked_workhalls": [],
+    "workhalls": [
+        {
+            "hall_number": "1",
+            "hall_name": "Alpha",
+            "floor":"first",
+            "is_available": true,
+            "total_capacity": "600",
+            "allowed_capacity": "200",
+            "available_capacity": "200",
+            "temp_length":22,
+            "available_seat_numbers": {
+                "window":["3","7","15","17"],
+                "elevator":["1","5","19","23"],
+                "recreational":["9","21","27","31"],
+                "pantry" : ["11","25","29","33"],
+                "others" : ["35","37","39","41","43","44"]
+            },
+            "booked_seat_numbers": {
+                "window":[],
+                "elevator":[],
+                "recreational":[],
+                "pantry" : [],
+                "others" : []
+            }
+        },
+        {
+            "hall_number": "2",
+            "hall_name": "Bravo",
+            "floor":"second",
+            "is_available": true,
+            "total_capacity": "600",
+            "allowed_capacity": "200",
+            "available_capacity": "200",
+            "temp_length":22,
+            "available_seat_numbers": {
+                "window":["3","7","15","17"],
+                "elevator":["1","5","19","23"],
+                "recreational":["9","21","27","31"],
+                "pantry" : ["11","25","29","33"],
+                "others" : ["35","37","39","41","43","44"]
+            },
+            "booked_seat_numbers": {
+                "window":[],
+                "elevator":[],
+                "recreational":[],
+                "pantry" : [],
+                "others" : []
+            }
+        },
+        {
+            "hall_number": "3",
+            "hall_name": "Charlie",
+            "floor":"third",
+            "is_available": true,
+            "total_capacity": "600",
+            "allowed_capacity": "200",
+            "available_capacity": "200",
+            "temp_length":22,
+            "available_seat_numbers": {
+                "window":["3","7","15","17"],
+                "elevator":["1","5","19","23"],
+                "recreational":["9","21","27","31"],
+                "pantry" : ["11","25","29","33"],
+                "others" : ["35","37","39","41","43","44"]
+            },
+            "booked_seat_numbers": {
+                "window":[],
+                "elevator":[],
+                "recreational":[],
+                "pantry" : [],
+                "others" : []
+            }
+        },
+        {
+            "hall_number": "4",
+            "hall_name": "Delta",
+            "floor":"Fourth",
+            "is_available": true,
+            "total_capacity": "600",
+            "allowed_capacity": "200",
+            "available_capacity": "200",
+            "temp_length":22,
+            "available_seat_numbers": {
+                "window":["3","7","15","17"],
+                "elevator":["1","5","19","23"],
+                "recreational":["9","21","27","31"],
+                "pantry" : ["11","25","29","33"],
+                "others" : ["35","37","39","41","43","44"]
+            },
+            "booked_seat_numbers": {
+                "window":[],
+                "elevator":[],
+                "recreational":[],
+                "pantry" : [],
+                "others" : []
+            }
+        },
+        {
+            "hall_number": "5",
+            "hall_name": "Echo",
+            "floor":"fifth",
+            "is_available": true,
+            "total_capacity": "600",
+            "allowed_capacity": "200",
+            "available_capacity": "200",
+            "temp_length":22,
+            "available_seat_numbers": {
+                "window":["3","7","15","17"],
+                "elevator":["1","5","19","23"],
+                "recreational":["9","21","27","31"],
+                "pantry" : ["11","25","29","33"],
+                "others" : ["35","37","39","41","43","44"]
+            },
+            "booked_seat_numbers": {
+                "window":[],
+                "elevator":[],
+                "recreational":[],
+                "pantry" : [],
+                "others" : []
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "_id": "60c9d647947359b96818aef5",
+    "handoverSettings": {
+        "providerSettings": {},
+        "provider": "none"
+    },
+    "flowId": "e8767074-eac5-4232-ae0c-e0217113931f",
+    "localeId": "42457c7f-6937-451e-a81a-f4ce5496bd07",
+    "URLToken": "861735e4ee28a37e72b1f0fc8b9528f6420c0b6b66b0e226f636675b8743dbb6",
+    "channel": "webchat2",
+    "name": "Webchat",
+    "entrypoint": "60c9d6416369414314d6b148",
+    "active": true,
+    "nluConnectorId": "cognigy",
+    "useContactProfiles": true,
+    "useAnalytics": true,
+    "useConversations": true,
+    "maskAnalytics": false,
+    "maskLogging": false,
+    "useChatbaseAnalytics": false,
+    "chatbaseApikey": "",
+    "useDashbotAnalytics": false,
+    "dashbotApikey": "",
+    "dashbotPlatform": "webchat",
+    "settings": {
+        "colorScheme": "#2C6CAF",
+        "designTemplate": 2,
+        "inputPlaceholder": "Write a reply",
+        "enableSTT": false,
+        "enableTTS": false,
+        "enableGenericHTMLStyling": true,
+        "enableFileUpload": true,
+        "startBehavior": "injection",
+        "getStartedButtonText": "Get Started",
+        "getStartedPayload": "Hi",
+        "getStartedText": "Hi",
+        "headerLogoUrl": "",
+        "messageLogoUrl": "",
+        "backgroundImageUrl": "",
+        "enableTypingIndicator": true,
+        "messageDelay": 500,
+        "pluginUrls": [],
+        "title": "",
+        "persistentMenu": {
+            "title": "I want to book Individual Seating cubicle",
+            "menuItems": [
+                {
+                    "title": "I want to book Individual Seating cubicle",
+                    "payload": "I want to book Individual Seating cubicle"
+                }
+            ]
+        },
+        "enablePersistentMenu": true
+    },
+    "transformer": {
+        "abortOnError": false,
+        "finalPingTransformerEnabled": false,
+        "injectTransformerEnabled": false,
+        "inputTransformerEnabled": false,
+        "notifyTransformerEnabled": false,
+        "outputTransformerEnabled": false,
+        "transformer": "createSocketTransformer({\n\n\t/**\n\t * This transformer is executed when receiving a message\n\t * from the user, before executing the Flow.\n\t *\n\t * @param payload The payload object containing userId, sessionId, text etc.\n\t * @param endpoint The configuration object for the used Endpoint.\n\t *\n\t * @returns A valid userId, sessionId, as well as text and/or data,\n\t * which has been extracted from the payload.\n\t */\n\thandleInput: async ({ payload, endpoint }) => {\n\t\treturn {\n\t\t\tuserId: payload.userId,\n\t\t\tsessionId: payload.sessionId,\n\t\t\ttext: payload.text,\n\t\t\tdata: payload.data\n\t\t};\n\t},\n\n\t/**\n\t * This transformer is executed on every output from the Flow.\n\t * For Socket based transformers, the return value of this transformer\n\t * will be sent directly to the user.\n\t *\n\t * @param processedOutput The output from the Flow which has been processed into the final object\n\t * that will be sent to the user. It is structured according to the data structure used\n\t * on the specific Endpoint channel.\n\t *\n\t * @param output The raw output from the Flow.\n\t * @param endpoint The configuration object for the used Endpoint.\n\t * @param userId The unique ID of the user.\n\t * @param sessionId The unique ID for this session. Can be used together with the userId\n\t * to retrieve the sessionStorage object.\n\t *\n\t * @returns An object that will be sent to the user, unchanged. It therefore has to have the\n\t * correct format according to the documentation of the specific Endpoint channel.\n\t */\n\thandleOutput: async ({ processedOutput, output, endpoint, userId, sessionId }) => {\n\t\treturn processedOutput;\n\t},\n\n\t/**\n\t * This transformer is executed when the Flow execution has finished.\n\t * Since all outputs have already been sent to the user, this transformer does not return anything.\n\t *\n\t * @param userId The unique ID of the user.\n\t * @param sessionId The unique ID for this session. Can be used together with the userId\n\t * to retrieve the sessionStorage object.\n\t *\n\t * @param endpoint The configuration object for the used Endpoint.\n\t *\n\t * @returns This transformer cannot return anything.\n\t */\n\thandleExecutionFinished: async ({ sessionId, userId, endpoint }) => {\n\n\t},\n\n\t/**\n\t * This transformer is executed when receiving an inject event.\n\t * The extracted text and data will be injected into the conversation\n\t * for the given user in the given session.\n\t *\n\t * @param request The Express request object with a JSON parsed body.\n\t * @param response The Express response object.\n\t * @param endpoint The configuration object for the used Endpoint.\n\t *\n\t * @returns A valid userId, sessionId, as well as text and/or data,\n\t * which has been extracted from the request body. The text and data\n\t * will be injected into this conversation.\n\t */\n\thandleInject: async ({ request, response, endpoint }) => {\n\n\t\t/**\n\t\t * Extract the userId, sessionId and text\n\t\t * from the request. Example:\n\t\t *\n\t\t * const { userId, sessionId, text, data } = request.body;\n\t\t *\n         * Note that the format of the request body will be different for\n\t\t * every Endpoint, and the example above needs to be adjusted\n\t\t * accordingly.\n\t\t */\n\t\tconst userId = \"\";\n\t\tconst sessionId = \"\";\n\t\tconst text = \"\";\n\t\tconst data = {}\n\n\t\treturn {\n\t\t\tuserId,\n\t\t\tsessionId,\n\t\t\ttext,\n\t\t\tdata\n\t\t};\n\t},\n\n\t/**\n\t * This transformer is executed when receiving a notify event.\n\t * The extracted text and data will be sent directly to the\n\t * given user in the given session as a notification.\n\t *\n\t * @param request The Express request object with a JSON parsed body.\n\t * @param response The Express response object.\n\t * @param endpoint The configuration object for the used Endpoint.\n\t *\n\t * @returns A valid userId, sessionId, as well as text and/or data,\n\t * which has been extracted from the request body. The text and data\n\t * will be sent directly to the user.\n\t */\n\thandleNotify: async ({ request, response, endpoint }) => {\n\n\t\t/**\n\t\t * Extract the userId, sessionId and text\n\t\t * from the request. Example:\n\t\t *\n\t\t * const { userId, sessionId, text, data } = request.body;\n\t\t *\n\t\t * Note that the format of the request body will be different for\n\t\t * every Endpoint, and the example above needs to be adjusted\n\t\t * accordingly.\n\t\t */\n\t\tconst userId = \"\";\n\t\tconst sessionId = \"\";\n\t\tconst text = \"\";\n\t\tconst data = {}\n\n\t\treturn {\n\t\t\tuserId,\n\t\t\tsessionId,\n\t\t\ttext,\n\t\t\tdata\n\t\t};\n\t}\n});",
+        "transpiledTransformer": "createSocketTransformer({\n    handleInput: async ({ payload, endpoint }) => {\n        return {\n            userId: payload.userId,\n            sessionId: payload.sessionId,\n            text: payload.text,\n            data: payload.data\n        };\n    },\n    handleOutput: async ({ processedOutput, output, endpoint, userId, sessionId }) => {\n        return processedOutput;\n    },\n    handleExecutionFinished: async ({ sessionId, userId, endpoint }) => {\n    },\n    handleInject: async ({ request, response, endpoint }) => {\n        const userId = \"\";\n        const sessionId = \"\";\n        const text = \"\";\n        const data = {};\n        return {\n            userId,\n            sessionId,\n            text,\n            data\n        };\n    },\n    handleNotify: async ({ request, response, endpoint }) => {\n        const userId = \"\";\n        const sessionId = \"\";\n        const text = \"\";\n        const data = {};\n        return {\n            userId,\n            sessionId,\n            text,\n            data\n        };\n    }\n});\n"
+    },
+    "foreignId": "",
+    "createdAt": 1623840327,
+    "createdBy": "60c9aeb81fda114a85b0615c",
+    "lastChanged": 1623867282,
+    "lastChangedBy": "60c9aeb81fda114a85b0615c"
+}

@@ -1,0 +1,74 @@
+# Link for conversational flow diagram
+[Click here to view conversational flow diagram](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=-CoD4uuzry_9w8z866v3#R%3Cmxfile%3E%3Cdiagram%20id%3D%225bkYTpqPo9GZYw-XyG7O%22%20name%3D%22Home%22%3E5RzZktq49lvmgaqZh6a8Gx57IcvcSadvSDKTvEwJW4CmbYvYpoH5%2BqsjycaWBE0SA919q1Id60jWcvZFpudep%2BvXOVrM39EYJz3Hitc996bnOLbnOD34Z8UbAQkDCZjlJJaDtoAx%2BRdLoCWhSxLjojWwpDQpyaINjGiW4ahswVCe01V72JQm7VUXaIY1wDhCiQ79k8TlXEAHvrWFv8FkNq9Wti3Zk6JqsAQUcxTTVQPkjnrudU5pKZ7S9TVOAHkVXsR7r3b01hvLcVYe8sLkszebjtfW71efxuPbJIm%2BvtpcSGI8oGQpD9xzgoTNdzVhDzN4qABTytZhxyg3EjfBtyWtOi4KTrlLNsC1FuttZzXLOEU5vI6ymP0doylm%2F%2F1J8%2FtFgiJcrcF2L5ZpL83Aje04rV04JV4DfF6mCQPY7LEoc3qPr2lCcwbJaIZhlyRJFBBKyCxjzYhhEDP41QPOS8Jofyk7UhLHsMzVak5KPF7ATt2bFeN0BsvpMosxINeqtwUT4PVOAtk12Zm8YJriMt%2BwIfIFJ5ScIkXFk83Vlu%2B8irvmDZ6rxiHJ6rN65i03sAfJEN%2FBHK7GHAV6ALrFqERcmHL2N0GAPMdaFlijDeP5BTwyJKAkwQmd5Sg1EauSLYaeqwXOCTsAUKT94t224xGKwMQoj6Q6sWFWwaA3Vt9xFW7oOe50ioMo0liH9cThcGJ1ROChQl9XJ7A9OCWBhwbpVyiIY6YOZZPm5ZzOaIaS0RaqyMF2zB%2BULiQp%2FsFluZHEQMuStjlArAkL7ccr2xdd5hHecyBPWgiUz3C5Z9zATKccM2YmD%2B19dI51T8P6ePyeAS6X5ZydmCmgktCsli%2FUAGczON0cC3HLa33KTis7AVyAiOISkYQ9XYOIknt4JUMpFgCcLhK6wVhslYNizBBepoBy3k5RxmxbXr%2Bm8EVb1kzS2KAwmhQ0WZb4ciuSbQH1jIqgC506aMtcbY0bMud6BpkLjiVzwUuTOf9AmfPOKXO%2BLnMld0hUg6UxYdNUSWuWrmfg7PanCV1FczZNv4DJ%2Ft4lCR3wcW34JR%2FbBj62Tc7B0fjYtl8aIw8OZGTbMpPqNJxcEf7%2FEO%2FDc%2BJ9oKGdTNuWdI7A8DJXdYbBJhMw4RPMjDgb%2F0o3oHOaTpbF48azbWl1BaWY0Q6UjRu0lY1rH%2Bio1hqoe22jo%2F%2BZc32F00fZ3j0n19u6trme4%2Bi%2B4u%2BbSe2nSod0keMHQpcgChNK77lXqhCqW4Y%2FSyhX299KREyxnHNSe6xH619woeH%2B5WRLFM%2FeNaZLdAI4RyOAHk2%2FIT1YzuuFV6N3d3%2B8%2FzIaMcDt5btRL7wRYdYbugDbsaHLOphjzyBIU5SSBA5MeDxHRXy3Yjvp95wApYDVbFIIB1NtH1XiujAxtt%2Binl%2B1G9Sr82FN8vnHIp9ziD%2BbxZeQUwYpSFBRkKiNR7wm5V%2FA4n0vqNpfoK9vOb5s36ylDPDGptFopLcELGPn%2BqvZ%2BMLn9qvmdirequbq0Ei5P%2BmaNajp7yHmwbZMrnDHhKHcHRx5qoyLc8q3nEaKXJ3IV3RKqEwkEKFNxJgCbRrDFjCg2L1hO3Tb3O%2B1UvfsQcy45eYapz%2FB4I7G4B%2FFayn3XhlbO1aEwKq%2F5XRKFlwZAf1pDLvRndinp1cUu%2BwPdKtwYr2i22UNjT%2BYdUBZRkueLPzbaRjoBE%2FBxCdogpM7WhCeTXRvcnHYK86cOB89YODRilBiHtYcdmSfPaet4V0n0Chh0gnB0TwkR0%2B87tPw0u35Ae%2F%2FbHpQUV9BGHajB7WJOtKD2jq%2B06kejJLZ50%2FO78578vDP22%2Fvfh%2FN3W%2BG9LvOBcePJGvjbreNe3hC6%2B4YUrdGlP1sCLqD%2Bko9bOB6R%2BGyMFDXOYW11TPOl9mmnAsvHieGYul3lVQ60NCBgpfAYCtPW4909OIIuCIrxMlZgisCOQVYGtiP0rRXZR8eSIyhP6LZFDMMRPiXsyPYVdXbKRFMvH9v%2F7v5%2Bp8Pq3SQpx%2B%2BftgE4QtM2juhrsPMRz9v1j48lLPfZjFhzLxEMOcYV0XfaDkhUfIUmPqMPL3bOJkzlJCgB2eXI5m0UpIy1wKF9bJOsoDHx%2F7Ca6LIThfgFUMXekCEedQJL5lDjLSi%2Bf0cwfZUZ37HnZcfvtbSoN%2BUrHHcKKG3id8JddvkDY3k9XXyqpFyZ%2BTV7aiO8RcYPqk1mNDSCWEKJVzfPxIhbD1%2F8Hxsh%2FFEgW46zCffQarOTce%2BXT6S1z%2B1GbCVy4pDA3%2BazIB7LD1hqFQ9c%2FY0eDbGcacqi%2B%2FbZAPrt%2FTszOk7T4w5TRctxdXmYgEZV3G1GTxCBCHNLEEx90EQOC6iNiRdRZ6r5f5inaDlvYSdi%2FXCZQPpwcgy0rclcy9w0e%2BJtO6K8N1OYFiCUZ4Jb2ia81hKvsMtHIq47wMvfspYkFUuM1RiqEjx64GA7ggt0IQkzERi7iPxxROSMvrC%2FvnuhSOVUnGzULpdb%2FnLYH85qFjx0rG24%2Fr2dxNLGnd9VxK6A%2B7ylNrVMHD6hurV0MBg4dGM89PIanWo%2FapQ9XHrfKoLEnu32UI8L%2FhuLwbdwgXaquBb0JxvT6QthHSQLKIZcygJ5C1AOpcgF8LjdKyMV2akyIB0Z7wsbJL%2F%2FcFjT49%2FPsOWZCKlk%2BsaXbgWSgwyDHXt7RzrboWZyM%2F50u4eoTlEuvyzSpce3N8xqwXJU7jz3pOxeEmX0XwrBZdxKsCYW9Nfccpi99%2FAkLUyA0z2NrVQbaWpf34BUPKGtuXr9uVot4vMhAjPwfDbGxB9x1MuQVjDRwolvKXeqehShA69%2BO4cp3yi%2BLiBrdC%2Bo%2BqJsoxtD5XPDB%2FZlucqzHeEkp6tJ4neYZQxuRX5umltJ4tS%2BL8ZjuOt1Eu9gSaUf95WrsC%2F3ub%2BhOGuvfM6FfgENIX6WYAdnNBWmvPsj5vKl5iv85W8%2BCA0BQXGjF0XQYGZFAdcPXmybovxRI6ucs0nd07ktezb5Uuo9aiOyNkrmIMz%2ByEDd9B0RC6svjVwT%2BeJGHFi8OWN44JzCoWhTEd5MmuCuEsuPyM%2FM8cHrsrxocH1PinHv%2FRba36g%2BjBqCevQa2uPz9SRT6wtZAXdXikyMoKean%2Fm1twQQD09vaWHFh8w4tkGuqztucw4nFl5eTr%2FD86svEyJMwaDLwr5ZyuNx0Y5xPAjM%2Fovynyco%2By%2BDuxEOlVWEEpmaX%2FptQoeCc8WKZmhe5FaFTNkmBctCmGVIDKEjNFHkSSSs%2BQ66eWXOwXiw9%2BIH0iB62kzSmG%2BGG12VzLMqDhzUOkq9zJtJ9DZyDUFlaFzJDYyFHdfv%2F8IP5oxHl1%2BfHv7mj3dXb4enR136q0N3%2BAvnzYc14ORH5TASHwOCD%2FxlM8mv8qsSPXfb3wKi%2F8WlPxyjQ9lcvSA4TPBRv%2F2t6JsZ7FudohFoSejecrCom3fSmILOj35GSdINfMaL9ieIwidtDfha8cLmSiAvvrbxaqPMPJnclar2gvvKXOUFUyrpNWs3K%2Fq8YtfcXvF%2BkVwZWecpy4UbDneQCDK8Ybywa9wFpNikSCJL5IlpFppmlBUKsurWnCHGDwrfeO266m2bfiU07ZNqZPv1zesuf3JNeGZbX%2B4zh39Dw%3D%3D%3C%2Fdiagram%3E%3Cdiagram%20id%3D%22SAppZxBLb1uusOh5dYz9%22%20name%3D%22Individual%20Seating%20cubicles%22%3E7VtJU%2BM4FP4tfUjNiZSXxHGOLIFmeqObrgH60iVsOXYjWx5ZztK%2Ffp7kPVZIIDFkmKkCEj%2FLWt7yvc30zNNwccFQ7H%2BiLiY9Q3MXPfOsZxj6wDB64kdzlxllZOWEKQvcfFBFuA5%2B45yo5dQ0cHHSGMgpJTyIm0SHRhF2eIOGGKPz5jCPkuaqMZriFuHaQaRNvQlc7mdUe6hV9Pc4mPrFyrqW3wlRMTgnJD5y6bxGMic985RRyrNv4eIUE8G8gi%2Bx7hp3mv3t4nKuWTe3f31IP94eZZOdP%2BWR8ggMR%2FzZU5sPV9j%2BHqKp9tWY%2BMuUn8Rfj3JZzhBJc37lZ%2BXLgoHYBX7ml5Rxn05phMikop4wmkYuFstocFWN%2BUhpDEQdiL8w58tcOVDKKZB8HpL8bramWGhFZhsOnI9LaMoc%2FMgpcwFyxKaYPzJOL6UK5oBpiDlbwnMME8SDWXNzKNfLaTmu4j18ydn%2FBFFoLVFcwuUcAQeEycCfe0of4OMycoNZ4KZITHmNYWvRVBhQeh84BL9rCbASj%2BD13A84vo6RZNgcbF4lihlmHC%2BeIYw28%2FJZzMKKchgp7G9e2aRu5zS%2FZo8DbXd2R7f0%2BO9fP%2Bwg8G7GP8fxZB5%2BODL%2FE5pfIG5N85Xc0NTC27vmKxfXDwOFgONseVu%2FuBOT9YfF5dkinzy7WuZXhyLDwWuil94SYeAJJjA8C2ia5OiVIVUgLtEMBQTdg%2BhaeOXT8B4e2YhVTWDzAkJOKaFMzmJ6HrYcB%2BgJZ%2FQB1%2B64o%2FG9pnWJddqwgXW6MWyBXRkf1cFu3BXYtX1Lz7AIrHpyT6jz8HdKOW4IwRIkuB2C0gVRzzyGu1rtd6DFC%2FiQTATJMhezbFBEI1zeiJHrCpFnj4sninnh2zT%2FJNnneX0nzZtJjKJVGrhA5YZBlPwIkWCab9oBQcLe1i7cnHvQG51MPl19%2FHI3mcDDn48%2FTXojmP1UuF2xHhaHW4LFrtPteQASlmEqofOM5GIOqt7U%2B5nY9nHt9KozAlkes0VVDT4QQa6V1fpheh8mPSeUCqbq%2B%2BTJMzZj9POgCj6uGPYwIIGDc5ZgxKSII5EH7HGfG%2FZklnuS2xg%2Bd2mVhe0SK%2BZmdkawV022fzgdjrQVOG3HjoC5bTgtU7n9RywtPL2hKSSmEhvgLwke8ErUzn1pmCiEB84PM0ZfZXTJ1HqQPlYw2uqKz1sEhpl7L1J7o8kpSNljMS5cTEV1o%2B8BKDs%2BYryPoohyiIto9NNoqzIEJphc0SQQA4DMsrOexDQQ7mQyAzYnZRSSzQOX4y6jCss0%2BitxhTXqtyOLoUJAZUSydwkNWhI6pZS8EzaA%2BR9Jpf9Iuk%2BJq55EerCU%2FmHagbWCNwMF3mgdmcGpdfTgJcOLMfvh3l19vnR%2Ff79UwM1r5Ed7zHOUqmRtmefYL5TnPLbJmij%2BTBOh1D6V%2BA84UOi6U8WN80DO7GHu%2BKUvIIF8kHrNbEhaSfLvMxNDs17ZTA6jjNC1mdhbmsnoNc3Eboni4xpt90Tgn7QEVWOoSr0dGkFSFYlkJXPC2ElZAsf6hpNMMJocRQiKk%2BCeFJSubGHQ9MymvmWIOuwqchpvtgXOAhRNpdJv4PZWXHsKVi8KeGhwzVbghyqW6YhluvUacLGu6jh6wbKjmh3mlkCza90xf%2FRKxNa9WhFtJQpbLY5l%2B8qfqkR%2FzBha1obJkD15ZJ1Bcx3TsuvTbRxf7Gvd%2BFY02RwPX7IdV3pb8nAHVW53Nz5%2FOcwoYrDCH1PVGVIVS82uUhq97bzeYhyhd2O3I7vpCgfDMm3dYLl7U%2F52Tno3uT5M7R%2BZh6b95ptrjKqPqXgnQD3Q2NFMdpNGu3NTVMoTTLDDgccyy%2FQYDcvM0ksjR5akDE0cTlSuF%2BKj7BWwogAsIvFa2tkrGxhI5rGc4zAu3z%2FI09fVOeKsTO5Wc6BIXMhyszggbylQUZcDcSJCMKFThkIxFWYBME6G9Y17V9WNTabqBQtcvIfU6RsNTZwb2oqQX%2FVGQ2fF0mJDh9JG1%2FqmbTaC2g0RrbyqSfpFwlzT2BYIdq07qf3lYMUD2KspYcfesjh%2FTWtABJ54FU%2FACYqECWddjUSAQJg6WYMzL04xKQweiDaZ6FPdZaQcCXwkS8AYCzgRlWDs9tsIcl7rlsomaQZjZeNUFg2WtYmr1mk1yYE1QrdtUMuOw1bt1D30Sfe%2FqW77pfvf76H2UrvyUsMmuoxUhSlVx6izV1HM0Ss7paqwso1P6tz9bNv16Mj9DPVmGDMavmyyZrYbKhcMzPPdIbiS%2FzH8LWL4QcK03cTpgaIO8MI43a6CvYepgfIlFrllu2XzpLc1O8vKxk08s632GxK6qq3QWVeyXY16DQfYtR%2Fbtduo9k76SnF4sGUTYF%2FeadSS3Rkt0yEfzYQ51F5siWvgeaDveK1W28cKnHnRpn27aHEMer1McOm7GU5iwBucFbrka%2BUoWlZcX1uREnIAnY94wMXwEHHHx0k2TcaUrKyVEk%2FGBpDtCg%2BEQiGL6D6JVe7iTZSu1lhVXQkshRI8o1sNl9V%2FyGVmWf2foTn5Bw%3D%3D%3C%2Fdiagram%3E%3Cdiagram%20id%3D%22-CoD4uuzry_9w8z866v3%22%20name%3D%22Video%20Conference%20Rooms%22%3E3Vpbd9o4EP4t%2B8A5uw%2FkGNuAeWzIpWnTNC3ZXvZlj7CFUStbVJa59NevRpLvprBpoKTn5AR7dBt%2FM9%2FMSHbHGUfra44W8zcswLRjW8G641x0bLvn2nYH%2FqxgoyXDgRGEnASmUyGYkO%2FYCC0jTUmAk0pHwRgVZFEV%2BiyOsS8qMsQ5W1W7zRitrrpAIW4IJj6iTelHEoi5lnp9q5C%2FxCScZyv3LNMSoayzESRzFLBVSeRcdpwxZ0zoq2g9xhTAy3CZ8m8oEsHbjeu9Gjnp9Nz%2BZ93Vk139nyH5I3Aci0dPnV5f8%2BHXiffp3fIb8W8txzt%2FyKZeIpoavMyzik0GIA4knuaWcTFnIYsRvSyk55ylcYBhGUveFX1uGVtIYU8Kv2AhNsY5UCqYFM1FRE2rfCy%2B%2BQTjz%2FrZ7Wcznbq5WFfuNuZO6woK1my9AyjTL2Ep983Qu9X6wX9I3HjZvxv8G3c%2FfHk3MoBaAvEQm%2FlcvOSv3szRzX339Xl3mYjb%2B096PoP6NWYRlkrKcRxTJMiyqhwy%2Fhzm%2FQqbyQtjtnYT%2FkjJkglv5O0KSQSAavLflLGvsDKoxFikWMRhiGQm09SbYQmZj%2F9oWL%2BwLRhqNScCTxZIobaSAaNqR6MJ5gKvH2GRJoJmFiej4CYnqb5fFYzueUY2L7HZtX4e9O0Wr4A%2BSTmWEomgBfj7KFa60AWozVKlrNRVmmSOxNmJ4tyr4ew1cbatFpwHh8LZbuD8Kk3AseeQB2yLxcaxE%2Bx37LEBf0XUzDMsfI04WIYSNZDNYMQSEYqmFOQfxoYXSU4Maa9nYiHb7f9iCzkNC91TjBKsbEIhoys8AdYZZQDvc8DVaYkwx8XVPYnM%2FIQZtvUp%2B3tmWO9IGfZHSpZMcbslligPTxqGKgHa5t8y%2FwpEYsxNH479lCfysd7jRBvGUr0oRYuETGkmORQZ7FG%2FSoa2NOC0kKF%2FKDIMdpNBcILiUHn9Drj3gm27I2yHrRpCvJYA0oTMORRkw5OIHydQ2W%2BPJ%2FtU9la7yfcOPGboPSOqHjeu4tbSzWDgVafQiplRNU%2FI1Xi8c3gN57jSudnkbBzI%2Bse6qtRP5Ti3Yhx2FHNEaTPayX3yAi6lsWQ7pizkKJI2XWBOpOIqzFXa7ouGXfl%2FRtY4O2Q4ZD1gD6oh0B20hMBRG5%2F7B%2BLz6CT4fGheHotv9Ux1YL71mpv0bSUEUAt49bsVEX33VxcRvT0Ou45RRWzz8ZMsI3rNHfgzjDu787x7lLjj1Q%2BkdEB8irjTerzb3Jw%2FQ%2BPtThrOUYw3PHbSaFrvY1F3lWo1ffAFDp7Vagll4vesy4a1RN6WVdpOgp%2FinKaVYqexzzo4xdxmIG2FY%2FCTVPy5ZNU8NJM%2BPNOHkGKOYiCPPoxP4MVHlKr9TX7oyxVkgsCrENgAfdaiBCN15IzghHiKMZw5wzsVtUsaUAnH%2BVT2G4RwdSUrLLYicQjKJjkjAyyrM5oVfJvSxM6L5iQ9WH2ilq032Wd5AKg3OdCUH2fLnziNphgWQnEAmkg2N5zzJI5fba9aLI7ajl%2F7LbQeHYrWbWWPxjtZqFc7BYSDbym8AobaWjoSmNPi4fRPqZmlI3Pp6i%2B4BByl08WiO0MRoRs9Rk6EIl1ZOo4LuGO6xIL4qNFSnUSX9zBFz16sa21aS2iMGY8QrTavDJTQ7mo9VSOVwQbzrnxUHzy5bbz0ANFFlISxbval%2FZWvlZqJ9KzYTG%2BVVFONgqM4kdSLsuljnHeQm6Cgunp5%2BBT5X0Plt90a5rbr5Vjb7qi47peQD0iyoMigTmJKSgvPKDOUNAplxs04Nnn59qNsvHjxcCl%2FHm7ewM%2F9zfj15fsmIWdc0VBHgFka%2B4KoF1Y6VccShY7e%2FNVfReWUnVLmQ9AiIo9TerZQBtM457ReWDq6dk69%2Bu9ZAHjDs2qs8Oy2jWX%2FiCVA8%2F3AMy8BWp9y3wrAPlIF8CMl93kbueAYvnoAlkG5fKIvfOsFb74JKXv78EAnAtsrvArEL99CFKyhtwOvKriHQs%2FpV9HrWS3Botd2oPIUwYJv%2Fl5%2BJiRm70g4ipzh3QT7LZ%2Fr5HmjCNxaACm6tdKopX1HJcd6prqDLaDMbzCDzxY4TyAxW5Uyhl6kurAUT7dmEUjeVVsmgstieKxT8YXKm5AQKK2JTLVwYUoF5xwMLusb%2BsI0RCQIVDBsc55qgDwY39yqxzhNf3HbvgN4xJdG8rb4eFAfGhSfYDqX%2FwE%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E)
+
+
+# Link for conversational flow diagram
+[Click here for working chatbot prototype](https://webchat-trial.cognigy.ai/v2/861735e4ee28a37e72b1f0fc8b9528f6420c0b6b66b0e226f636675b8743dbb6)
+
+# Output PPT
+[Click here to download assignment output ppt](https://dev.azure.com/archanasingh0093/85ba6aa8-c8d4-4134-a910-68d8419e2b72/_apis/git/repositories/6426ad7b-cf91-47c4-b668-1635bee56cf9/items?path=%2FAssignment%20Output.pptx&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&resolveLfs=true&%24format=octetStream&api-version=5.0&download=true)
+
+# Introduction 
+This is server for Dummy APIs, required for seating arrangement
+
+# Scenarios handled
+### NOTE: Please refer to masterData.json for master dataset
+Following are the scenarios, edge cases and queries handled in this bot:
+1.	Bot can book a cubicle for employee
+2.	Can booking be made for a week - Bot responds with appropriate answer
+3.  Can I do the booking for my team - Bot responds with appropriate answer
+4.  Bot checks for the available floor. Latest data is fetched from the master dataset via API and displayed to the users
+5.  You cannot book the same seat again, until master dataset is reset. (Master dataset can be reset using API: https://daphne-server.azurewebsites.net/api/resetMasterData)
+6.  Scenario handled in case all the seats are booked. Bot will apologize and ask to visit later and reset the master dataset to initial state, so that seats are available again.
+7.  Seat preference will be asked, multiple scenarios like : "book a seat with nice view" - bot will look for a seat near window, "can I get a seat near coffee machine" - bot will look for a seat near pantry. etc.
+8.  In case, prefered seat is not available bot will book any other seat and send message in seat preference that "Requested seat preference not available".
+9.   If employee ask for "can i make another booking?" - Bot responds with appropriate answer
+10.  In default case, if you click on "come back later" - Bot will respond "Thanks! Enjoy your day." (or some other variant of this)
+11.  When asked to reach out to admin. - Bot responds with appropriate answer. Flow for next admin mail etc. is not implemented.
+
+# Cognigy agent bot clone
+Bot clone is available in agent folder.
+
+# Getting Started
+Guide for users to get the code up and running on their own system. In this section we will talk about:
+1.	Installation process
+2.	API references
+3.  TODOs
+
+## Installation process
+ - Install latest version of Nodejs on your machine : https://nodejs.org/en/download/
+ - Download the code from the repo
+ - Unzip the folder and keep in desired location
+ - Open command prompt and move to the location of your project
+ - Type command "npm install", press "enter"
+ - It will take a while to install all the dependencies
+ - Type command "npm run watch"
+
+## API references
+NOTE : These are dummy api's, for imitating the functionalities which will be required for doing the seat management.
+For reference a Master dataset is made, assuming this is our layout and it will be updated with different activities performed by different actors (Employees, Housekeeping, Admin etc.)
+### List of APIs Planned:
+    - API to return Employee details (Authentication method can be implemented as per company norms and based on choice of channel for communication)
+    - API to check availability of seats on any floor and return list of floors where seating is available.
+    - API to book and return seat number with preference given by Employee on given floor.
+    - API to check if Employee looking for only tomorrow's booking. If not, tell employee booking possible only for next day
+    - API to check if Employee's previous choices/preferences are available, if yes, share information, to save Employee's time
+    - API for notification to the Employee to move/navigate to different seat (Assuming this will happen in case of double/urgent booking request etc. With access to employees data and master plan this can be achieved) 
+    - API for Housekeeping for notification and updating master dataset
+    
+### List of dummy APIs used:
+    - API to return Employee details (Authentication method can be implemented as per company norms and based on choice of channel for communication)
+    - API to check availability of seats on any floor and return list of floors where seating is available.
+    - API to book and return seat number with preference given by Employee on given floor.
+    - API to reset master data when no seats are available
+
+## TODOs
+ - DB setup for storing employee session details for later usage
+ - Error logs and Audit logs for each api hit
+ - Securing APIs by setting up user authentication (only authorized employees can access the APIs)
+
+# Build and Test
+TODO: Describe and show how to build your code and run the tests. 
+
+# Contribute
+TODO: Explain how other users and developers can contribute to make your code better. 

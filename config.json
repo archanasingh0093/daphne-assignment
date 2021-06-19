@@ -1,0 +1,8 @@
+{
+    "name": "daphne-cognigy",
+    "apiKey": "3410d5204ebe7c4b9651ee7833e9f14e6e670dce987a662981a289d97300736ed14cecae882ff3b04afe0fe78ea757e8e7b979a83215576ba2cac90be030feb6",
+    "agent": "60c9d6416369414314d6b148",
+    "baseUrl": "https://api-trial.cognigy.ai",
+    "agentDir": "./agent",
+    "filePath": "./config.json"
+}

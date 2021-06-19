@@ -1,0 +1,1208 @@
+{
+    "_id": "60ca2e3f03b9a38b35865030",
+    "relations": [
+        {
+            "children": [],
+            "_id": "60ca2e3f03b9a39b1e865032",
+            "node": "60ca2e3f03b9a373b3865031",
+            "next": "60cd7f042340415663ebab48"
+        },
+        {
+            "children": [],
+            "_id": "60ca2e3f03b9a3d291865034",
+            "node": "60ca2e3f03b9a350f0865033",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60ca3730b2aace773e031fd3",
+            "node": "60ca3730b2aace7eaf031fd2",
+            "next": "60ca374923404121c2ea8428"
+        },
+        {
+            "children": [],
+            "_id": "60ca3730b2aace1d6f031fd5",
+            "node": "60ca3730b2aace444f031fd4",
+            "next": "60ca3a6103b9a326e086506e"
+        },
+        {
+            "children": [],
+            "_id": "60ca37492340417c12ea8429",
+            "node": "60ca374923404121c2ea8428",
+            "next": "60cd92f1be270086aa9356c9"
+        },
+        {
+            "children": [
+                "60ca3a6103b9a320dc865070",
+                "60ca3a6103b9a33bd1865072"
+            ],
+            "_id": "60ca3a6103b9a348bc86506f",
+            "node": "60ca3a6103b9a326e086506e",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60ca3a6103b9a3bc77865071",
+            "node": "60ca3a6103b9a320dc865070",
+            "next": "60ca3aaeb2aace745f031fd6"
+        },
+        {
+            "children": [],
+            "_id": "60ca3a6103b9a34ea8865073",
+            "node": "60ca3a6103b9a33bd1865072",
+            "next": "60cdaf35be270043c39356dd"
+        },
+        {
+            "children": [],
+            "_id": "60ca3aaeb2aace0ab6031fd7",
+            "node": "60ca3aaeb2aace745f031fd6",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60ca3ad423404129a4ea842f",
+            "node": "60ca3ad4234041616bea842e",
+            "next": "60ca3b12515a76cc2163f141"
+        },
+        {
+            "children": [],
+            "_id": "60ca3b12515a76426d63f142",
+            "node": "60ca3b12515a76cc2163f141",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cae17c0e05e0623ed8add2",
+            "node": "60cae17c0e05e0bebed8add1",
+            "next": "60cae7900e05e006a0d8add9"
+        },
+        {
+            "children": [],
+            "_id": "60cae17c0e05e04c03d8add4",
+            "node": "60cae17c0e05e06fead8add3",
+            "next": "60cae1da0e05e037f4d8add6"
+        },
+        {
+            "children": [
+                "60ca3730b2aace7eaf031fd2",
+                "60ca3730b2aace444f031fd4"
+            ],
+            "_id": "60cae1c5be270053d2923dca",
+            "node": "60ca3730b2aace741d031fd0",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cae1da0e05e0d9b8d8add7",
+            "node": "60cae1da0e05e037f4d8add6",
+            "next": "60cae205be27003f7d923dcb"
+        },
+        {
+            "children": [],
+            "_id": "60cae205be2700149f923dcc",
+            "node": "60cae205be27003f7d923dcb",
+            "next": null
+        },
+        {
+            "children": [
+                "60cae4a6947359f66f18cf4b",
+                "60cae4a79473597f3818cf4d"
+            ],
+            "_id": "60cae4a69473591d9d18cf4a",
+            "node": "60cae4a6947359074418cf49",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cae4a7947359192e18cf4c",
+            "node": "60cae4a6947359f66f18cf4b",
+            "next": "60ca37ea515a7642dc63f13d"
+        },
+        {
+            "children": [],
+            "_id": "60cae4a79473593d9318cf4e",
+            "node": "60cae4a79473597f3818cf4d",
+            "next": "60cae5c823404164f7ea8538"
+        },
+        {
+            "children": [],
+            "_id": "60cae4c99473595fcb18cf4f",
+            "node": "60ca37ea515a7642dc63f13d",
+            "next": "60cdacd02340419d8debab57"
+        },
+        {
+            "children": [],
+            "_id": "60cae4e1b2aace289103286d",
+            "node": "60ca39f20e05e0eba7d8a039",
+            "next": "60caec300e05e0922ed8b043"
+        },
+        {
+            "children": [],
+            "_id": "60cae5c823404113ccea8539",
+            "node": "60cae5c823404164f7ea8538",
+            "next": "60cae61b515a76841f6441d7"
+        },
+        {
+            "children": [],
+            "_id": "60cae61b515a763b0d6441d8",
+            "node": "60cae61b515a76841f6441d7",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cae7900e05e08ea6d8adda",
+            "node": "60cae7900e05e006a0d8add9",
+            "next": "60cae7fabe27009f07923dce"
+        },
+        {
+            "children": [],
+            "_id": "60cae7fabe27000d82923dcf",
+            "node": "60cae7fabe27009f07923dce",
+            "next": "60ca3730b2aace741d031fd0"
+        },
+        {
+            "children": [],
+            "_id": "60caec300e05e04b19d8b044",
+            "node": "60caec300e05e0922ed8b043",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cd7f042340413442ebab49",
+            "node": "60cd7f042340415663ebab48",
+            "next": "60cdb75fbe27003db193571e"
+        },
+        {
+            "children": [],
+            "_id": "60cd92f1be270093249356ca",
+            "node": "60cd92f1be270086aa9356c9",
+            "next": "60cae4a6947359074418cf49"
+        },
+        {
+            "children": [],
+            "_id": "60cdacd02340416b33ebab58",
+            "node": "60cdacd02340419d8debab57",
+            "next": "60cdb4b303b9a3228787d9f1"
+        },
+        {
+            "children": [],
+            "_id": "60cdadd2515a7632f064eed4",
+            "node": "60cdadd2515a769a9764eed3",
+            "next": "60ca39f20e05e0eba7d8a039"
+        },
+        {
+            "children": [],
+            "_id": "60cdaf35be2700cb599356de",
+            "node": "60cdaf35be270043c39356dd",
+            "next": "60ca3ad4234041616bea842e"
+        },
+        {
+            "children": [],
+            "_id": "60cdb4b303b9a30d4787d9f2",
+            "node": "60cdb4b303b9a3228787d9f1",
+            "next": "60cdadd2515a769a9764eed3"
+        },
+        {
+            "children": [
+                "60cdb75fbe2700ebce935720",
+                "60cdb75fbe2700c881935722"
+            ],
+            "_id": "60cdb75fbe27004d1993571f",
+            "node": "60cdb75fbe27003db193571e",
+            "next": "60ca2e3f03b9a350f0865033"
+        },
+        {
+            "children": [],
+            "_id": "60cdb75fbe27007ad6935721",
+            "node": "60cdb75fbe2700ebce935720",
+            "next": "60cd849c515a762c5464eea8"
+        },
+        {
+            "children": [],
+            "_id": "60cdb75fbe27000b4e935723",
+            "node": "60cdb75fbe2700c881935722",
+            "next": "60cdb7d5515a76407064eedc"
+        },
+        {
+            "children": [],
+            "_id": "60cdb769be270059fa935724",
+            "node": "60cd849c515a762c5464eea8",
+            "next": "60ca3b92be2700cf8191bca2"
+        },
+        {
+            "children": [],
+            "_id": "60cdb7750e05e01d24da535e",
+            "node": "60ca3b92be2700cf8191bca2",
+            "next": "60cae17c0e05e044a1d8adcf"
+        },
+        {
+            "children": [
+                "60cae17c0e05e0bebed8add1",
+                "60cae17c0e05e06fead8add3"
+            ],
+            "_id": "60cdb779515a766bc064eedb",
+            "node": "60cae17c0e05e044a1d8adcf",
+            "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cdb7d5515a76769164eedd",
+            "node": "60cdb7d5515a76407064eedc",
+            "next": "60cdb84bb2aace6b0203cc14"
+        },
+        {
+            "children": [],
+            "_id": "60cdb84bb2aace4d9203cc15",
+            "node": "60cdb84bb2aace6b0203cc14",
+            "next": "60cdb88c9473596aa8195a95"
+        },
+        {
+            "children": [],
+            "_id": "60cdb88c94735983fe195a96",
+            "node": "60cdb88c9473596aa8195a95",
+            "next": null
+        }
+    ],
+    "nodes": [
+        {
+            "_id": "60cdb88c9473596aa8195a95",
+            "referenceId": "b1bb21a4-0462-4205-8e60-4502edeccb0b",
+            "type": "goTo",
+            "label": "Go To (6)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "flowNode": {
+                    "flow": "e8767074-eac5-4232-ae0c-e0217113931f",
+                    "node": "7265f146-a58d-4ab8-9d75-ae70f6acdc47"
+                },
+                "absorbContext": false,
+                "executionMode": "continue",
+                "injectedText": "",
+                "injectedData": "{}",
+                "parseIntents": false,
+                "parseKeyphrases": false
+            }
+        },
+        {
+            "_id": "60cdb84bb2aace6b0203cc14",
+            "referenceId": "9cd42639-3b41-44ce-b362-46411f8f22c5",
+            "type": "httpRequest",
+            "label": "HTTP Request (3)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "type": "GET",
+                "url": "https://daphne-server.azurewebsites.net/api/resetMasterData",
+                "headers": {},
+                "payloadType": "json",
+                "payloadText": "",
+                "payloadJSON": {},
+                "storeLocation": "input",
+                "inputKey": "httprequest",
+                "contextKey": "httprequest",
+                "authType": "none",
+                "basicConnection": "",
+                "apiKeyAuthKeyConnection": "",
+                "apiKeyXKeyConnection": "",
+                "oAuth2Connection": "",
+                "async": false,
+                "cache": false,
+                "cacheExpiry": 0,
+                "storeResponseHeaders": false,
+                "allowSelfSigned": false,
+                "errorLogging": "none",
+                "abortOnError": false,
+                "logWarning": ""
+            }
+        },
+        {
+            "_id": "60cdb7d5515a76407064eedc",
+            "referenceId": "308e5e27-8bd1-4996-8d02-9c4d0f3ec80e",
+            "type": "say",
+            "label": "Say (4)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Sorry for the inconvenience, but all the seats are booked at this time. Please try again in sometime."
+                    ],
+                    "type": "text",
+                    "_cognigy": {
+                        "_default": {
+                            "_buttons": {
+                                "type": "buttons",
+                                "text": "",
+                                "buttons": []
+                            }
+                        }
+                    },
+                    "_data": {
+                        "_cognigy": {
+                            "_default": {
+                                "_buttons": {
+                                    "type": "buttons",
+                                    "text": "",
+                                    "buttons": []
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cdb75fbe2700ebce935720",
+            "referenceId": "ef976497-883b-4c78-af51-5be8441410f9",
+            "type": "then",
+            "label": "Then",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cdb75fbe2700c881935722",
+            "referenceId": "2a015951-8b0d-419a-91b6-64fa8fba78a7",
+            "type": "else",
+            "label": "Else",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cdb75fbe27003db193571e",
+            "referenceId": "87695ff9-be6a-443f-978c-01d80b2fa958",
+            "type": "if",
+            "label": "If (5)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "condition": {
+                    "type": "rule",
+                    "condition": "",
+                    "rule": {
+                        "left": "context.availableFloors.result.is_available",
+                        "operand": "eq",
+                        "right": "true"
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cdb4b303b9a3228787d9f1",
+            "referenceId": "929b5578-d5c5-4a42-a0aa-2b02f103a599",
+            "type": "say",
+            "label": "Say (2)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Following is your seat booking details. "
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cdaf35be270043c39356dd",
+            "referenceId": "4ec597e4-b720-4a90-9e83-2b073a1090e4",
+            "type": "addToContext",
+            "label": "Add To Context",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "key": "seat_preference",
+                "value": "anything",
+                "mode": "simple"
+            }
+        },
+        {
+            "_id": "60cdadd2515a769a9764eed3",
+            "referenceId": "9e86280d-7a74-46f8-9b4f-8324feedd60a",
+            "type": "code",
+            "label": "Code (2)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "code": "actions.output(null, {\r\n    \"type\": \"list\",\r\n    \"_cognigy\": {\r\n        \"_default\": {\r\n            \"_list\": {\r\n                \"type\": \"list\",\r\n                \"items\": context.seat_booking_details.result\r\n            }\r\n        }\r\n    }\r\n});",
+                "hasError": false,
+                "transpiled": "actions.output(null, {\n    \"type\": \"list\",\n    \"_cognigy\": {\n        \"_default\": {\n            \"_list\": {\n                \"type\": \"list\",\n                \"items\": context.seat_booking_details.result\n            }\n        }\n    }\n});\n"
+            }
+        },
+        {
+            "_id": "60cdacd02340419d8debab57",
+            "referenceId": "8f820d88-c303-44ef-abab-67653ee7bc24",
+            "type": "httpRequest",
+            "label": "HTTP Request (2)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "type": "POST",
+                "url": "https://daphne-server.azurewebsites.net/api/bookSeat",
+                "headers": {},
+                "payloadType": "json",
+                "payloadText": "",
+                "payloadJSON": "{\r\n    \"floor\": \"{{context.floor}}\",\r\n    \"seatPreference\":\"{{context.seat_preference}}\"\r\n}",
+                "storeLocation": "context",
+                "inputKey": "httprequest",
+                "contextKey": "seat_booking_details",
+                "authType": "none",
+                "basicConnection": "",
+                "apiKeyAuthKeyConnection": "",
+                "apiKeyXKeyConnection": "",
+                "oAuth2Connection": "",
+                "async": false,
+                "cache": false,
+                "cacheExpiry": 0,
+                "storeResponseHeaders": false,
+                "allowSelfSigned": false,
+                "errorLogging": "none",
+                "abortOnError": false,
+                "logWarning": ""
+            }
+        },
+        {
+            "_id": "60cd92f1be270086aa9356c9",
+            "referenceId": "1fbf03be-99e7-48ce-a8e4-f97feaeb12ab",
+            "type": "wait",
+            "label": "Wait for Input (3)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cd849c515a762c5464eea8",
+            "referenceId": "a34cc08a-912d-4966-a8ba-565a36b0f25c",
+            "type": "code",
+            "label": "Code",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "code": "actions.output(null, {\r\n    \"type\": \"buttons\",\r\n    \"_cognigy\": {\r\n        \"_default\": {\r\n            \"_buttons\": {\r\n                \"type\": \"buttons\",\r\n                \"text\": \"Right now, we have seats available on following floors. Please select your floor from the options.\",\r\n                \"buttons\": context.availableFloors.result.availableFloorList\r\n            }\r\n        }\r\n    }\r\n});",
+                "hasError": false,
+                "transpiled": "actions.output(null, {\n    \"type\": \"buttons\",\n    \"_cognigy\": {\n        \"_default\": {\n            \"_buttons\": {\n                \"type\": \"buttons\",\n                \"text\": \"Right now, we have seats available on following floors. Please select your floor from the options.\",\n                \"buttons\": context.availableFloors.result.availableFloorList\n            }\n        }\n    }\n});\n"
+            }
+        },
+        {
+            "_id": "60cd7f042340415663ebab48",
+            "referenceId": "1e96a749-0188-4072-8ea3-b5ee86b2768a",
+            "type": "httpRequest",
+            "label": "HTTP Request",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "type": "GET",
+                "url": "https://daphne-server.azurewebsites.net/api/availabileFloors",
+                "headers": {},
+                "payloadType": "json",
+                "payloadText": "",
+                "payloadJSON": {},
+                "storeLocation": "context",
+                "inputKey": "httprequest",
+                "contextKey": "availableFloors",
+                "authType": "none",
+                "basicConnection": "",
+                "apiKeyAuthKeyConnection": "",
+                "apiKeyXKeyConnection": "",
+                "oAuth2Connection": "",
+                "async": false,
+                "cache": false,
+                "cacheExpiry": 0,
+                "storeResponseHeaders": false,
+                "allowSelfSigned": false,
+                "errorLogging": "none",
+                "abortOnError": false,
+                "logWarning": ""
+            }
+        },
+        {
+            "_id": "60caec300e05e0922ed8b043",
+            "referenceId": "85b4c0b4-4d79-4b7a-af34-4d87110e600f",
+            "type": "goTo",
+            "label": "Go To (5)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "flowNode": {
+                    "flow": "e8767074-eac5-4232-ae0c-e0217113931f",
+                    "node": "7265f146-a58d-4ab8-9d75-ae70f6acdc47"
+                },
+                "absorbContext": false,
+                "executionMode": "continue",
+                "injectedText": "",
+                "injectedData": "{}",
+                "parseIntents": false,
+                "parseKeyphrases": false
+            }
+        },
+        {
+            "_id": "60cae7fabe27009f07923dce",
+            "referenceId": "5a4492db-05be-4941-9a0d-195e467de7de",
+            "type": "wait",
+            "label": "Wait for Input (2)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cae7900e05e006a0d8add9",
+            "referenceId": "1d5a2fa0-d9fa-4400-bcf6-28522ab0766f",
+            "type": "say",
+            "label": "Say (11)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Do you have any seat preference? "
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cae61b515a76841f6441d7",
+            "referenceId": "bbdb980d-f634-440f-bbac-426ed4176c43",
+            "type": "goTo",
+            "label": "Go To (4)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "flowNode": {
+                    "flow": "5d61d3b4-74b3-4129-9a52-8927494cf1cb",
+                    "node": "6653800d-f856-4d58-be58-bfe4e50fe2ed"
+                },
+                "absorbContext": false,
+                "executionMode": "continue",
+                "injectedText": "",
+                "injectedData": "{}",
+                "parseIntents": false,
+                "parseKeyphrases": false
+            }
+        },
+        {
+            "_id": "60cae5c823404164f7ea8538",
+            "referenceId": "e29bd674-c86b-451d-84c2-06cb48a9a11a",
+            "type": "say",
+            "label": "Say (10)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Okay! Hold on for a moment, let me just book the seat for you."
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cae4a79473597f3818cf4d",
+            "referenceId": "6279d004-cd5a-42ef-b79e-b679c43a483a",
+            "type": "else",
+            "label": "Else",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cae4a6947359f66f18cf4b",
+            "referenceId": "dc4acb94-8050-4286-ad5a-95c378bc0b84",
+            "type": "then",
+            "label": "Then",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cae4a6947359074418cf49",
+            "referenceId": "980c9a82-24e7-40a0-8ecf-5d85f12b1383",
+            "type": "if",
+            "label": "If (4)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "condition": {
+                    "type": "condition",
+                    "rule": {
+                        "left": "{{context.seat_preference}}",
+                        "operand": "eq",
+                        "right": "window seat"
+                    },
+                    "condition": "context.seat_preference"
+                }
+            }
+        },
+        {
+            "_id": "60cae205be27003f7d923dcb",
+            "referenceId": "a91b9134-d931-44e3-9a7e-94dbfdd58eba",
+            "type": "goTo",
+            "label": "Go To (3)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "flowNode": {
+                    "flow": "5d61d3b4-74b3-4129-9a52-8927494cf1cb",
+                    "node": "4098b644-fb3f-4017-bca1-5fcdcbf118c7"
+                },
+                "absorbContext": false,
+                "executionMode": "continue",
+                "injectedText": "",
+                "injectedData": "{}",
+                "parseIntents": false,
+                "parseKeyphrases": false
+            }
+        },
+        {
+            "_id": "60cae1da0e05e037f4d8add6",
+            "referenceId": "354b201b-285d-42a8-87b0-b59665aa2556",
+            "type": "say",
+            "label": "Say (8)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Sorry for the inconvenience."
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60cae17c0e05e0bebed8add1",
+            "referenceId": "9b44366c-1d5a-4f3d-b0d9-69f6b612071d",
+            "type": "then",
+            "label": "Then",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cae17c0e05e06fead8add3",
+            "referenceId": "12dd7d89-fcf4-46dd-a57f-687c151cd1c7",
+            "type": "else",
+            "label": "Else",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60cae17c0e05e044a1d8adcf",
+            "referenceId": "2dde50c8-3a26-4d81-a914-b3051284f195",
+            "type": "if",
+            "label": "If (3)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "condition": {
+                    "type": "condition",
+                    "rule": {
+                        "left": "1",
+                        "operand": "eq",
+                        "right": "1"
+                    },
+                    "condition": "context.floor"
+                }
+            }
+        },
+        {
+            "_id": "60ca3b92be2700cf8191bca2",
+            "referenceId": "10c978d1-3185-42fb-8d4d-c38f8f012320",
+            "type": "wait",
+            "label": "Wait for Input",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca3b12515a76cc2163f141",
+            "referenceId": "f342f705-a483-421e-8e15-14db7b201b1a",
+            "type": "goTo",
+            "label": "Go To (2)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "flowNode": {
+                    "flow": "5d61d3b4-74b3-4129-9a52-8927494cf1cb",
+                    "node": "8f820d88-c303-44ef-abab-67653ee7bc24"
+                },
+                "absorbContext": false,
+                "executionMode": "continue",
+                "injectedText": "",
+                "injectedData": "{}",
+                "parseIntents": false,
+                "parseKeyphrases": false
+            }
+        },
+        {
+            "_id": "60ca3ad4234041616bea842e",
+            "referenceId": "2f88d850-dbc7-4375-8600-2b2f7326f69d",
+            "type": "say",
+            "label": "Say (7)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Cool! Let me book the available seat for you."
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca3aaeb2aace745f031fd6",
+            "referenceId": "f83ee143-0dfd-4dd2-905b-e1eb8e0a8d1a",
+            "type": "goTo",
+            "label": "Go To",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "flowNode": {
+                    "flow": "5d61d3b4-74b3-4129-9a52-8927494cf1cb",
+                    "node": "25cd1e7b-54c1-4e3c-97be-f966ed277047"
+                },
+                "absorbContext": false,
+                "executionMode": "continue",
+                "injectedText": "",
+                "injectedData": "{}",
+                "parseIntents": false,
+                "parseKeyphrases": false
+            }
+        },
+        {
+            "_id": "60ca3a6103b9a33bd1865072",
+            "referenceId": "2cfb486b-2166-43ea-988b-1d64667bd443",
+            "type": "else",
+            "label": "Else",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca3a6103b9a326e086506e",
+            "referenceId": "cc994f63-1850-4bb0-9657-52a3fcf8ff50",
+            "type": "if",
+            "label": "If (2)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "condition": {
+                    "type": "condition",
+                    "rule": {
+                        "left": "1",
+                        "operand": "eq",
+                        "right": "1"
+                    },
+                    "condition": "context.seat_preference"
+                }
+            }
+        },
+        {
+            "_id": "60ca3a6103b9a320dc865070",
+            "referenceId": "923d5290-ba0a-4a81-8b59-05b2caf90955",
+            "type": "then",
+            "label": "Then",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca39f20e05e0eba7d8a039",
+            "referenceId": "910a4178-5676-4c65-bc9d-f11bb6533ca3",
+            "type": "say",
+            "label": "Say (5)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Thank you for your time. \nDon't forget to make the booking again in case you decide to travel to the office again. Also, make sure to follow all safety norms."
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca37ea515a7642dc63f13d",
+            "referenceId": "25cd1e7b-54c1-4e3c-97be-f966ed277047",
+            "type": "say",
+            "label": "Say (3)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Well {{context.profile.result.firstname}}, let me see if I can get you a seat around {{context.seat_preference}} area."
+                    ],
+                    "type": "text",
+                    "_cognigy": {},
+                    "_data": {
+                        "_cognigy": {}
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca374923404121c2ea8428",
+            "referenceId": "10decc63-7eff-4b3a-bc7b-58986774104f",
+            "type": "say",
+            "label": "Say",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "say": {
+                    "data": "",
+                    "linear": false,
+                    "loop": false,
+                    "text": [
+                        "Right now, we have seats available on following floors. Please select your floor from the options."
+                    ],
+                    "type": "buttons",
+                    "_cognigy": {
+                        "_default": {
+                            "_buttons": {
+                                "type": "buttons",
+                                "text": "Okay! Please select your preference from the list.",
+                                "buttons": [
+                                    {
+                                        "id": 0.870086179653393,
+                                        "payload": "window seat",
+                                        "type": "postback",
+                                        "title": "Near Window"
+                                    },
+                                    {
+                                        "id": 0.3076168672475732,
+                                        "payload": "near pantry",
+                                        "type": "postback",
+                                        "title": "Near Pantry"
+                                    },
+                                    {
+                                        "id": 0.25206834081040297,
+                                        "payload": "recreational",
+                                        "type": "postback",
+                                        "title": "Near Recreational area"
+                                    },
+                                    {
+                                        "id": 0.8595498626031879,
+                                        "payload": "Elevator",
+                                        "type": "postback",
+                                        "title": "Near Elevator"
+                                    }
+                                ],
+                                "fallbackText": "Sorry for the unconvenience but only above options are available."
+                            }
+                        }
+                    },
+                    "_data": {
+                        "_cognigy": {
+                            "_default": {
+                                "_buttons": {
+                                    "type": "buttons",
+                                    "text": "Okay! Please select your preference from the list.",
+                                    "buttons": [
+                                        {
+                                            "id": 0.870086179653393,
+                                            "payload": "window seat",
+                                            "type": "postback",
+                                            "title": "Near Window"
+                                        },
+                                        {
+                                            "id": 0.3076168672475732,
+                                            "payload": "near pantry",
+                                            "type": "postback",
+                                            "title": "Near Pantry"
+                                        },
+                                        {
+                                            "id": 0.25206834081040297,
+                                            "payload": "recreational",
+                                            "type": "postback",
+                                            "title": "Near Recreational area"
+                                        },
+                                        {
+                                            "id": 0.8595498626031879,
+                                            "payload": "Elevator",
+                                            "type": "postback",
+                                            "title": "Near Elevator"
+                                        }
+                                    ],
+                                    "fallbackText": "Sorry for the unconvenience but only above options are available."
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca3730b2aace7eaf031fd2",
+            "referenceId": "a5828e75-20f0-439e-8702-a3e5b4d102c2",
+            "type": "then",
+            "label": "Then",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca3730b2aace741d031fd0",
+            "referenceId": "3958d88a-269d-4499-9e49-176d281f2114",
+            "type": "if",
+            "label": "If",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "condition": {
+                    "type": "rule",
+                    "condition": "",
+                    "rule": {
+                        "left": "1[[snippet-eyJ0eXBlIjoiaW5wdXQiLCJsYWJlbCI6IkludGVudCIsInNjcmlwdCI6ImlucHV0LmludGVudCJ9]]",
+                        "operand": "eq",
+                        "right": "yes"
+                    }
+                }
+            }
+        },
+        {
+            "_id": "60ca3730b2aace444f031fd4",
+            "referenceId": "f17b96d3-58da-43e7-a13b-b81b1cfaca35",
+            "type": "else",
+            "label": "Else",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca2e3f03b9a373b3865031",
+            "referenceId": "4098b644-fb3f-4017-bca1-5fcdcbf118c7",
+            "type": "start",
+            "label": "Start",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": true,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        },
+        {
+            "_id": "60ca2e3f03b9a350f0865033",
+            "referenceId": "3e32d9fa-d90a-4bed-a9fc-996004d8754b",
+            "type": "end",
+            "label": "End",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {}
+        }
+    ]
+}
