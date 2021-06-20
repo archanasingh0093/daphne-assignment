@@ -44,6 +44,7 @@
     {
         "name": "booking",
         "exampleSentences": [
+            "book me a seat",
             "I want to book a seat for my friend",
             "how about reserving this seat for few more days",
             "seat reservation for next three days",
@@ -72,6 +73,9 @@
     {
         "name": "come_back_later",
         "exampleSentences": [
+            "see you later",
+            "bye",
+            "goodbye",
             "that's okay I will come back later",
             "no thanks. laters ",
             "it's alright I was just checking",
@@ -93,6 +97,8 @@
     {
         "name": "yes",
         "exampleSentences": [
+            "thank you",
+            "thanks",
             "okay",
             "definitely",
             "sure",

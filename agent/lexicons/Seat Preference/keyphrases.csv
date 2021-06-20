@@ -1,4 +1,4 @@
-"pantry","seat_preference","tea,eating,vending machine,break-out,eat,breakout,food,coffee",
-"window","seat_preference","warm,windows,scenary,nice view,light,view,sunlight",
-"recreational","seat_preference","fun,tt,funzone,playzone,play,table tennis,pool",
+"pantry","seat_preference","breakout,food,eating,coffee,tea,break-out,eat,vending machine",
+"window","seat_preference","light,view,sunlight,windows,nice view,warm,scenary",
+"recreational","seat_preference","playzone,funzone,fun,tt,play,table tennis,pool",
 "elevator","seat_preference","exit,lift",

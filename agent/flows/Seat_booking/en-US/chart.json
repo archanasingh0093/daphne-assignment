@@ -134,7 +134,7 @@
             "children": [],
             "_id": "60cae4e1b2aace289103286d",
             "node": "60ca39f20e05e0eba7d8a039",
-            "next": "60caec300e05e0922ed8b043"
+            "next": "60cf6e09515a76777264f05d"
         },
         {
             "children": [],
@@ -261,9 +261,32 @@
             "_id": "60cdb88c94735983fe195a96",
             "node": "60cdb88c9473596aa8195a95",
             "next": null
+        },
+        {
+            "children": [],
+            "_id": "60cf6e09515a76088364f05e",
+            "node": "60cf6e09515a76777264f05d",
+            "next": "60caec300e05e0922ed8b043"
         }
     ],
     "nodes": [
+        {
+            "_id": "60cf6e09515a76777264f05d",
+            "referenceId": "15d2ee35-0f99-4532-af7a-163bfa4f7e09",
+            "type": "code",
+            "label": "Code (3)",
+            "comment": "",
+            "commentColor": "",
+            "isDisabled": false,
+            "isEntryPoint": false,
+            "extension": "@cognigy/basic-nodes",
+            "localeReference": "60c9d6429473595f6918aee6",
+            "config": {
+                "code": "delete context.seat_preference\r\ndelete context.floor",
+                "hasError": false,
+                "transpiled": "delete context.seat_preference;\ndelete context.floor;\n"
+            }
+        },
         {
             "_id": "60cdb88c9473596aa8195a95",
             "referenceId": "b1bb21a4-0462-4205-8e60-4502edeccb0b",
@@ -1158,7 +1181,7 @@
                     "type": "rule",
                     "condition": "",
                     "rule": {
-                        "left": "1[[snippet-eyJ0eXBlIjoiaW5wdXQiLCJsYWJlbCI6IkludGVudCIsInNjcmlwdCI6ImlucHV0LmludGVudCJ9]]",
+                        "left": "[[snippet-eyJ0eXBlIjoiaW5wdXQiLCJsYWJlbCI6IkludGVudCIsInNjcmlwdCI6ImlucHV0LmludGVudCJ9]]",
                         "operand": "eq",
                         "right": "yes"
                     }

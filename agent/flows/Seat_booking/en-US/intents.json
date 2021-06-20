@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "name": "yes",
+        "exampleSentences": [
+            "yup",
+            "yeah i do",
+            "sure",
+            "yeah",
+            "yes"
+        ],
+        "rules": [],
+        "tags": [],
+        "confirmationSentences": [],
+        "condition": "",
+        "disambiguationSentence": "",
+        "childFeatures": false,
+        "parent": "",
+        "defaultReply": null,
+        "entryPoint": "",
+        "isRejectIntent": false
+    }
+]
